@@ -7,8 +7,9 @@
 //
 
 import UIKit
+import Foundation
 
-class Exchange: ElongBaseViewController {
+class Exchange: ElongBaseViewController,HttpUtilDelegate {
 
     init(nibName nibNameOrNil: String?, bundle nibBundleOrNil: NSBundle?) {
         super.init(nibName: nibNameOrNil, bundle: nibBundleOrNil)
@@ -18,9 +19,36 @@ class Exchange: ElongBaseViewController {
     
     init(title titleStr: String!, style: NavBarBtnStyle) {
         super.init(title:titleStr,style:style)
+
+        loadNetData(false, requestCache: true)
+    }
+
+    func loadNetData(showAlert:Bool,requestCache:Bool){
+    
+        var req:NSDictionary = ["forceUpdate":requestCache]
+        var paramJson:NSString  = req.JSONString()
+        var url:NSString = PublicMethods.composeNetSearchUrl("mtools",forService:"exchangeRates",andParam:paramJson)
+        
+        var http = HttpUtil()
+        http.requestWithURLString(url,content:nil,startLoading:showAlert,endLoading:showAlert,delegate:self)
     }
     
+    //- (void)httpConnectionDidFinished:(HttpUtil *)util responseData:(NSData *)responseData;         // 请求完成
 
+
+    func httpConnectionDidFinished(util: HttpUtil!, responseData: NSData!) {
+    
+        var root:NSDictionary  = PublicMethods.unCompressData(responseData)
+//        if let some = Utils.checkJsonIsError(root) {
+//            return;
+//        }
+        
+        var dataArray:NSArray = root["rates"] as NSArray
+        println(dataArray)
+        
+    }
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 

@@ -61,8 +61,7 @@
 // 进入系统自带map进行导航
 + (void)pushToMapWithDestName:(NSString *)destination;
 + (void)pushToMapWithDesLat:(double)latitude Lon:(double)longitude;
-+ (void) openMapListToDestination:(CLLocationCoordinate2D)destination title:(NSString *)title;
-
++ (void)openMapListToDestination:(CLLocationCoordinate2D)destination title:(NSString *)title;
 + (BOOL)passHotelOn;                    // 后台控制酒店passbook的开关
 + (BOOL)passGrouponOn;                  // 后台控制团购passbook的开关
 

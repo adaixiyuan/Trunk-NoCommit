@@ -1,0 +1,91 @@
+//
+// Prefix header for all source files of the 'ElongClient' target in the 'ElongClient' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+	#import <QuartzCore/QuartzCore.h>
+    #import <MapKit/MapKit.h>
+    #import "CacheManage.h"
+	#import "CommonDefine.h"
+	#import "CommonCell.h"
+	#import "DebugDefine.h"
+    #import "PublicMethods.h"
+    #import "PublicMethods_ARC.h"
+	#import "RoundCornerView.h"
+	#import "CustomTextField.h"
+	#import <AddressBook/AddressBook.h>
+	#import <AddressBookUI/AddressBookUI.h>
+	#import "CustomAB.h"
+    #import "HttpUtil.h"
+    #import "ProcessSwitcher.h"
+    #import <PassKit/PassKit.h>
+    #import "UMengEvent.h"
+    #import "MobClick.h"
+    #import "ServiceConfig.h"
+    #import "ClassAddition.h"
+    #import "Profile.h"
+    #import "JSONKit.h"
+    #import "Utils.h"
+    #import "HotelConfig.h"
+    #import "TrainConfig.h"
+    #import "FlightStatusConfig.h"
+    #import "CalendarDefine.h"
+    #import "ElongBaseViewController.h"
+    #import "ModalAnimationContainer.h"
+    #import "ElongCache.h"
+    #import "UIView+(Size).h"
+    #import "NSObject+ PerformBlockAfterDelay.h"
+    #import "BlockUIAlertView.h"
+    #import "JavaAPIConfig.h"
+    #import "RegexKitLite.h"
+#endif
+
+#ifndef __OPTIMIZE__
+#    define NSLog(...) NSLog(__VA_ARGS__)
+#else
+#    define NSLog(...) {}
+#endif
+
+// 上线配置
+#define DEFAULT_SERVER  @"http://mobile-api2011.elong.com"      // 默认启动线上环境，勿随便修改
+#define DEFAULT_HTTPS_SERVER @"https://oauth.elong.com"         // HTTPS线上环境
+#define DEBUGBAR_SWITCH YES                                      // 控制顶部显示条，上线时改为NO
+
+/* 渠道分析
+     appstore:    ewiphone
+       91助手:    91iphone
+       同步推:     tbtiphone
+       pp助手:    pingguoyuan
+         快用:    kuaiyongiphone
+哇麦in-app渠道:    zhuodsewiphone
+       卓大师:     xiaoAewiphone
+        云时空:    itoolsewiphone
+        帆悦:     fanyueios
+        网秦:     wangqinios
+    */
+#define CHANNELID  @"ewiphone"
+
+#define APPTYPE     @"1"
+
+// UMeng数据统计分析，上线前请置为0
+#define UMENG      0
+#define UMENG_KEY @"5162727056240b41e7006a75"
+#define UFP_KEY   @"528192fdbe197fffc188d393"
+
+// 微信支付
+#define WEIXIN_ID   @"wx2a5825d706b3bb6a"
+#define WEIXIN_KEY  @"278f7c0cd5880644d322aaf214c8a4c6"
+
+// 科大讯飞
+#define EIFLY_APPID @"52c0e69a" //@"531bd3c4" //正式@"52c0e69a"
+
+// Countly 数据统计分析
+#define COUNTLY 1
+#define COUNTLY_KEY  @"4090abd1315b90818aa790b0d6069f3ce3afc134"
+#define COUNTLY_HOST @"http://mobile-api2011.elong.com"
+
+// Tencent
+#define TENCENTMAP_KEY @"BP3BZ-D4H3V-MCCP2-URSGN-MTJBV-CZFBO"
+

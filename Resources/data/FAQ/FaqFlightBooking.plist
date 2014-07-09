@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>0</key>
+	<array>
+		<string>带有孩子乘飞机如何订票？</string>
+		<string>
+	目前艺龙手机网站暂不支持婴儿/儿童票，如有需要请通过电话400-666-1166或艺龙www.elong.com网站预订。
+</string>
+	</array>
+	<key>1</key>
+	<array>
+		<string>请问订单提交后，需要多久可以出票？ </string>
+		<string>
+	一般情况白天30分钟出票，晚间20点后1小时出票，特殊情况除外。
+</string>
+	</array>
+	<key>2</key>
+	<array>
+		<string>我订了机票，如何报销？</string>
+		<string>
+	电子机票凭行程单报销。</string>
+	</array>
+	<key>3</key>
+	<array>
+		<string>旅客在购买电子客票时须注意以下事项</string>
+		<string>
+	《行程单》为一人一单，遗失不补；《行程单》不能任意涂改，旅客应核对《行程单》上的姓名、证件号码等所列项目；《行程单》不作为登机凭证，但在旅客发生改期、签转与退票的需要时，旅客须出示《行程单》原件办理；退票时旅客必须凭《行程单》原件向原售票部门提出申请；《行程单》是旅客购买国内航空运输电子客票的付款及报销的凭证；《行程单》只可以打印一次，请旅客妥善保管。
+	</string>
+	</array>
+	<key>4</key>
+	<array>
+		<string>我可以通过什么方式获取到行程单？</string>
+		<string>
+	建议您通过银行卡支付选择&quot;机场打印或送票上门(5～8日送达)&quot;获取行程单，若您不需要报销可以选择&quot;我不需要行程单&quot;。
+</string>
+	</array>
+</dict>
+</plist>

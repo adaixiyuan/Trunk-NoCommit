@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Code/!svn/ver/88162/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/IFlyMSC/iflyMSC.framework/Headers
+END
+IFlyDataUploader.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/Code/!svn/ver/88162/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/IFlyMSC/iflyMSC.framework/Headers/IFlyDataUploader.h
+END
+IFlySpeechUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/Code/!svn/ver/88162/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/IFlyMSC/iflyMSC.framework/Headers/IFlySpeechUser.h
+END
+IFlyDataDownloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/Code/!svn/ver/88162/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/IFlyMSC/iflyMSC.framework/Headers/IFlyDataDownloader.h
+END
+IFlySpeechRecognizerDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/Code/!svn/ver/88162/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/IFlyMSC/iflyMSC.framework/Headers/IFlySpeechRecognizerDelegate.h
+END
+IFlySpeechSynthesizerDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/Code/!svn/ver/88162/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/IFlyMSC/iflyMSC.framework/Headers/IFlySpeechSynthesizerDelegate.h
+END
+IFlyContact.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/Code/!svn/ver/88162/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/IFlyMSC/iflyMSC.framework/Headers/IFlyContact.h
+END
+IFlyRecognizerViewDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/Code/!svn/ver/88162/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/IFlyMSC/iflyMSC.framework/Headers/IFlyRecognizerViewDelegate.h
+END
+IFlySetting.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/Code/!svn/ver/88162/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/IFlyMSC/iflyMSC.framework/Headers/IFlySetting.h
+END
+IFlyUserWords.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/Code/!svn/ver/88162/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/IFlyMSC/iflyMSC.framework/Headers/IFlyUserWords.h
+END
+IFlySpeechRecognizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/Code/!svn/ver/88162/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/IFlyMSC/iflyMSC.framework/Headers/IFlySpeechRecognizer.h
+END
+IFlySpeechSynthesizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/Code/!svn/ver/88162/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/IFlyMSC/iflyMSC.framework/Headers/IFlySpeechSynthesizer.h
+END
+IFlySpeechError.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/Code/!svn/ver/88162/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/IFlyMSC/iflyMSC.framework/Headers/IFlySpeechError.h
+END
+IFlyRecognizerView.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/Code/!svn/ver/88162/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/IFlyMSC/iflyMSC.framework/Headers/IFlyRecognizerView.h
+END

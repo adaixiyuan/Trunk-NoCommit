@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Code/!svn/ver/91680/Mobile/IOS_Travel/Trunk/Classes/Elong/Groupon/Views
+END
+GrouponFilterView.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Code/!svn/ver/87990/Mobile/IOS_Travel/Trunk/Classes/Elong/Groupon/Views/GrouponFilterView.h
+END
+GrouponPriceHeaderCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Code/!svn/ver/87990/Mobile/IOS_Travel/Trunk/Classes/Elong/Groupon/Views/GrouponPriceHeaderCell.m
+END
+GrouponOrderPayCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Code/!svn/ver/87990/Mobile/IOS_Travel/Trunk/Classes/Elong/Groupon/Views/GrouponOrderPayCell.h
+END
+GrouponFilterView.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Code/!svn/ver/87990/Mobile/IOS_Travel/Trunk/Classes/Elong/Groupon/Views/GrouponFilterView.m
+END
+GrouponUserGuideView.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Code/!svn/ver/87990/Mobile/IOS_Travel/Trunk/Classes/Elong/Groupon/Views/GrouponUserGuideView.h
+END
+GrouponOrderInvoiceCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Code/!svn/ver/87990/Mobile/IOS_Travel/Trunk/Classes/Elong/Groupon/Views/GrouponOrderInvoiceCell.h
+END
+GrouponOrderPayCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Code/!svn/ver/87990/Mobile/IOS_Travel/Trunk/Classes/Elong/Groupon/Views/GrouponOrderPayCell.m
+END
+GrouponUserGuideView.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Code/!svn/ver/87990/Mobile/IOS_Travel/Trunk/Classes/Elong/Groupon/Views/GrouponUserGuideView.m
+END
+GrouponOrderInvoiceCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Code/!svn/ver/87990/Mobile/IOS_Travel/Trunk/Classes/Elong/Groupon/Views/GrouponOrderInvoiceCell.m
+END
+GrouponPriceFootTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Code/!svn/ver/87990/Mobile/IOS_Travel/Trunk/Classes/Elong/Groupon/Views/GrouponPriceFootTableViewCell.h
+END
+GrouponDetailOrderCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Code/!svn/ver/87990/Mobile/IOS_Travel/Trunk/Classes/Elong/Groupon/Views/GrouponDetailOrderCell.h
+END
+GrouponShareOrderCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Code/!svn/ver/87990/Mobile/IOS_Travel/Trunk/Classes/Elong/Groupon/Views/GrouponShareOrderCell.h
+END
+GrouponBuyTipsCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Code/!svn/ver/87990/Mobile/IOS_Travel/Trunk/Classes/Elong/Groupon/Views/GrouponBuyTipsCell.h
+END
+GrouponDetailMutipleAddreeCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Code/!svn/ver/87990/Mobile/IOS_Travel/Trunk/Classes/Elong/Groupon/Views/GrouponDetailMutipleAddreeCell.xib
+END
+GrouponPriceFootTableViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Code/!svn/ver/87990/Mobile/IOS_Travel/Trunk/Classes/Elong/Groupon/Views/GrouponPriceFootTableViewCell.m
+END
+GrouponDetailCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Code/!svn/ver/87990/Mobile/IOS_Travel/Trunk/Classes/Elong/Groupon/Views/GrouponDetailCell.h
+END
+GrouponDetailOrderCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Code/!svn/ver/91680/Mobile/IOS_Travel/Trunk/Classes/Elong/Groupon/Views/GrouponDetailOrderCell.m
+END
+GrouponShareOrderCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Code/!svn/ver/87990/Mobile/IOS_Travel/Trunk/Classes/Elong/Groupon/Views/GrouponShareOrderCell.m
+END
+GrouponBuyTipsCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Code/!svn/ver/91680/Mobile/IOS_Travel/Trunk/Classes/Elong/Groupon/Views/GrouponBuyTipsCell.m
+END
+GrouponDetailCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Code/!svn/ver/89008/Mobile/IOS_Travel/Trunk/Classes/Elong/Groupon/Views/GrouponDetailCell.m
+END
+GrouponDetailMutipleAddreeCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Code/!svn/ver/87990/Mobile/IOS_Travel/Trunk/Classes/Elong/Groupon/Views/GrouponDetailMutipleAddreeCell.h
+END
+GrouponHotelCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Code/!svn/ver/87990/Mobile/IOS_Travel/Trunk/Classes/Elong/Groupon/Views/GrouponHotelCell.h
+END
+GrouponDetailMutipleAddreeCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Code/!svn/ver/87990/Mobile/IOS_Travel/Trunk/Classes/Elong/Groupon/Views/GrouponDetailMutipleAddreeCell.m
+END
+GrouponHotelCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Code/!svn/ver/87990/Mobile/IOS_Travel/Trunk/Classes/Elong/Groupon/Views/GrouponHotelCell.m
+END
+GrouponOrderInfoCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Code/!svn/ver/87990/Mobile/IOS_Travel/Trunk/Classes/Elong/Groupon/Views/GrouponOrderInfoCell.h
+END
+GrouponDetailNoteCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Code/!svn/ver/87990/Mobile/IOS_Travel/Trunk/Classes/Elong/Groupon/Views/GrouponDetailNoteCell.h
+END
+GrouponPackageCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Code/!svn/ver/87990/Mobile/IOS_Travel/Trunk/Classes/Elong/Groupon/Views/GrouponPackageCell.h
+END
+GrouponOrderInfoCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Code/!svn/ver/87990/Mobile/IOS_Travel/Trunk/Classes/Elong/Groupon/Views/GrouponOrderInfoCell.m
+END
+GrouponDetailNoteCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Code/!svn/ver/89008/Mobile/IOS_Travel/Trunk/Classes/Elong/Groupon/Views/GrouponDetailNoteCell.m
+END
+GrouponItemCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Code/!svn/ver/87990/Mobile/IOS_Travel/Trunk/Classes/Elong/Groupon/Views/GrouponItemCell.h
+END
+PackageDataMoreCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Code/!svn/ver/87990/Mobile/IOS_Travel/Trunk/Classes/Elong/Groupon/Views/PackageDataMoreCell.h
+END
+GrouponHotelFacilityCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Code/!svn/ver/87990/Mobile/IOS_Travel/Trunk/Classes/Elong/Groupon/Views/GrouponHotelFacilityCell.h
+END
+GrouponPackageCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Code/!svn/ver/87990/Mobile/IOS_Travel/Trunk/Classes/Elong/Groupon/Views/GrouponPackageCell.m
+END
+GrouponDetailCommentInfoCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Code/!svn/ver/87990/Mobile/IOS_Travel/Trunk/Classes/Elong/Groupon/Views/GrouponDetailCommentInfoCell.h
+END
+GrouponPriceCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Code/!svn/ver/87990/Mobile/IOS_Travel/Trunk/Classes/Elong/Groupon/Views/GrouponPriceCell.h
+END
+GrouponItemCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Code/!svn/ver/87990/Mobile/IOS_Travel/Trunk/Classes/Elong/Groupon/Views/GrouponItemCell.m
+END
+PackageDataMoreCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Code/!svn/ver/87990/Mobile/IOS_Travel/Trunk/Classes/Elong/Groupon/Views/PackageDataMoreCell.m
+END
+GrouponHotelFacilityCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Code/!svn/ver/87990/Mobile/IOS_Travel/Trunk/Classes/Elong/Groupon/Views/GrouponHotelFacilityCell.m
+END
+GrouponOrderPhoneCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Code/!svn/ver/87990/Mobile/IOS_Travel/Trunk/Classes/Elong/Groupon/Views/GrouponOrderPhoneCell.h
+END
+GrouponDetailCommentInfoCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Code/!svn/ver/87990/Mobile/IOS_Travel/Trunk/Classes/Elong/Groupon/Views/GrouponDetailCommentInfoCell.m
+END
+GrouponDetailMapAddressCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Code/!svn/ver/87990/Mobile/IOS_Travel/Trunk/Classes/Elong/Groupon/Views/GrouponDetailMapAddressCell.h
+END
+GrouponPriceCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Code/!svn/ver/87990/Mobile/IOS_Travel/Trunk/Classes/Elong/Groupon/Views/GrouponPriceCell.m
+END
+GrouponMapView.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Code/!svn/ver/87990/Mobile/IOS_Travel/Trunk/Classes/Elong/Groupon/Views/GrouponMapView.h
+END
+GrouponOrderPhoneCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Code/!svn/ver/87990/Mobile/IOS_Travel/Trunk/Classes/Elong/Groupon/Views/GrouponOrderPhoneCell.m
+END
+GrouponDetailMapAddressCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Code/!svn/ver/87990/Mobile/IOS_Travel/Trunk/Classes/Elong/Groupon/Views/GrouponDetailMapAddressCell.m
+END
+GrouponPriceHeaderCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Code/!svn/ver/87990/Mobile/IOS_Travel/Trunk/Classes/Elong/Groupon/Views/GrouponPriceHeaderCell.h
+END
+GrouponDetailAppointmentCellDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/Code/!svn/ver/87990/Mobile/IOS_Travel/Trunk/Classes/Elong/Groupon/Views/GrouponDetailAppointmentCellDelegate.h
+END
+GrouponMapView.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Code/!svn/ver/87990/Mobile/IOS_Travel/Trunk/Classes/Elong/Groupon/Views/GrouponMapView.m
+END

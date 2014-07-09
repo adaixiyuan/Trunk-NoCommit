@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>0</key>
+	<array>
+		<string>手机网上预订是否可以使用艺龙消费券？</string>
+		<string>
+	可以。
+</string>
+	</array>
+	<key>1</key>
+	<array>
+		<string>艺龙消费券是什么？</string>
+		<string>
+	艺龙消费券，使用此券网上预订带有“返现”标识的酒店，入住并结账后，实际使用消费券金额将返还到您艺龙账户中的“现金账户”中，您可以通过手机充值话费或银行卡提现方式支取“现金账户”中的现金。艺龙消费券不得直接兑换现金，不可冲抵房费，不可预订机票时使用。</string>
+	</array>
+	<key>2</key>
+	<array>
+		<string>如何使用艺龙消费券？</string>
+		<string>
+	首先需要您在网站上预订带有“返现”标识的酒店，填写订单时，请务必勾选“使用消费券”。入住酒店并结账后，按实际使用的消费券金额返现，现金直接返还到您艺龙账户的“现金账户”中，当“现金账户”可支取余额大于等于50元人民币时，您可以操作提现或手机话费充值。</string>
+	</array>
+	<key>3</key>
+	<array>
+		<string>如何获得艺龙消费券？</string>
+		<string>
+	1. 手机成功注册艺龙会员送1000元消费券；
+	2. 参与酒店点评，酒店订单结账后5个工作日内，可获100元消费券，可直接使用，无需激活；
+	3. 积分兑换消费券，邮件发送到个人邮箱，需登录账户激活再使用。</string>
+	</array>
+	<key>4</key>
+	<array>
+		<string>艺龙消费券有效期多久？</string>
+		<string>
+	具体有效期以注明的使用期限为准，一般为3-6个月。
+	</string>
+	</array>
+</dict>
+</plist>

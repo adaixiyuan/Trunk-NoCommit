@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/Code/!svn/ver/87914/Mobile/IOS_Travel/Trunk/Classes/Elong/Flight/Controller
+END
+FlightSeatRuleVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Code/!svn/ver/87914/Mobile/IOS_Travel/Trunk/Classes/Elong/Flight/Controller/FlightSeatRuleVC.h
+END
+FlightSeatSuccessVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Code/!svn/ver/87914/Mobile/IOS_Travel/Trunk/Classes/Elong/Flight/Controller/FlightSeatSuccessVC.h
+END
+FlightSeatRuleVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Code/!svn/ver/87914/Mobile/IOS_Travel/Trunk/Classes/Elong/Flight/Controller/FlightSeatRuleVC.m
+END
+FlightSeatCustomerListVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Code/!svn/ver/87914/Mobile/IOS_Travel/Trunk/Classes/Elong/Flight/Controller/FlightSeatCustomerListVC.h
+END
+FlightSeatSuccessVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Code/!svn/ver/87914/Mobile/IOS_Travel/Trunk/Classes/Elong/Flight/Controller/FlightSeatSuccessVC.m
+END
+FlightSeatSelectVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Code/!svn/ver/87914/Mobile/IOS_Travel/Trunk/Classes/Elong/Flight/Controller/FlightSeatSelectVC.h
+END
+FlightSeatCustomerListVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Code/!svn/ver/87914/Mobile/IOS_Travel/Trunk/Classes/Elong/Flight/Controller/FlightSeatCustomerListVC.m
+END
+FlightSeatSelectVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Code/!svn/ver/87914/Mobile/IOS_Travel/Trunk/Classes/Elong/Flight/Controller/FlightSeatSelectVC.m
+END

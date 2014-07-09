@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Code/!svn/ver/89218/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/View
+END
+ScenicBookingTable.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Code/!svn/ver/72781/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/View/ScenicBookingTable.m
+END
+ScenicListView.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Code/!svn/ver/72781/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/View/ScenicListView.h
+END
+ScenicBookingHeader.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Code/!svn/ver/72347/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/View/ScenicBookingHeader.m
+END
+ScenicAnnitoanView.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Code/!svn/ver/71912/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/View/ScenicAnnitoanView.m
+END
+ScenicListView.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Code/!svn/ver/89218/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/View/ScenicListView.m
+END
+ScenicBookingCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Code/!svn/ver/72347/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/View/ScenicBookingCell.xib
+END
+HotScenicView.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Code/!svn/ver/71339/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/View/HotScenicView.h
+END
+ScenicIntroCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Code/!svn/ver/72781/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/View/ScenicIntroCell.xib
+END
+HomeThemeCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Code/!svn/ver/71339/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/View/HomeThemeCell.h
+END
+ScenicOrderNumCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Code/!svn/ver/72347/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/View/ScenicOrderNumCell.xib
+END
+HomeCityCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Code/!svn/ver/68599/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/View/HomeCityCell.xib
+END
+ScenicBookingCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Code/!svn/ver/68269/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/View/ScenicBookingCell.h
+END
+ScenicSimpleCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Code/!svn/ver/66477/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/View/ScenicSimpleCell.h
+END
+HotScenicView.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Code/!svn/ver/71339/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/View/HotScenicView.m
+END
+HomeThemeCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Code/!svn/ver/71339/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/View/HomeThemeCell.m
+END
+ScenicOrderNumCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Code/!svn/ver/71232/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/View/ScenicOrderNumCell.h
+END
+ScenicIntroCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Code/!svn/ver/72781/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/View/ScenicIntroCell.h
+END
+HomeCityCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Code/!svn/ver/89218/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/View/HomeCityCell.h
+END
+ScenicBookingCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Code/!svn/ver/72347/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/View/ScenicBookingCell.m
+END
+ScenicSimpleCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Code/!svn/ver/73708/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/View/ScenicSimpleCell.m
+END
+ScenicIntroCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Code/!svn/ver/72781/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/View/ScenicIntroCell.m
+END
+ScenicOrderNumCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Code/!svn/ver/71232/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/View/ScenicOrderNumCell.m
+END
+ScenicRecommand.xib
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Code/!svn/ver/72080/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/View/ScenicRecommand.xib
+END
+HomeCityCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Code/!svn/ver/71339/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/View/HomeCityCell.m
+END
+ThumbnailImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Code/!svn/ver/69655/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/View/ThumbnailImage.h
+END
+TravelDateCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Code/!svn/ver/72347/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/View/TravelDateCell.xib
+END
+ScenicRecommand.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Code/!svn/ver/68585/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/View/ScenicRecommand.h
+END
+ScenicListCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Code/!svn/ver/68599/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/View/ScenicListCell.xib
+END
+ThumbnailImage.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Code/!svn/ver/70464/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/View/ThumbnailImage.m
+END
+TravelDateCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Code/!svn/ver/70464/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/View/TravelDateCell.h
+END
+ScenicMapView.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Code/!svn/ver/89218/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/View/ScenicMapView.h
+END
+ScenicRecommand.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Code/!svn/ver/71232/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/View/ScenicRecommand.m
+END
+ScenicListCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Code/!svn/ver/68599/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/View/ScenicListCell.h
+END
+TravelDateCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Code/!svn/ver/70464/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/View/TravelDateCell.m
+END
+ScenicMapView.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Code/!svn/ver/89218/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/View/ScenicMapView.m
+END
+ScenicOrderHeaderCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Code/!svn/ver/73348/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/View/ScenicOrderHeaderCell.xib
+END
+ScenicListCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Code/!svn/ver/71912/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/View/ScenicListCell.m
+END
+CFAndButtonCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Code/!svn/ver/71232/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/View/CFAndButtonCell.h
+END
+ScenicOrderHeaderCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Code/!svn/ver/73348/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/View/ScenicOrderHeaderCell.h
+END
+HotScenicButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Code/!svn/ver/81778/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/View/HotScenicButton.h
+END
+CFAndButtonCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Code/!svn/ver/73708/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/View/CFAndButtonCell.m
+END
+ScenicOrderHeaderCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Code/!svn/ver/73348/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/View/ScenicOrderHeaderCell.m
+END
+HotScenicButton.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Code/!svn/ver/81778/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/View/HotScenicButton.m
+END
+ScenicBookingTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Code/!svn/ver/68269/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/View/ScenicBookingTable.h
+END
+ScenicBookingHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Code/!svn/ver/68269/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/View/ScenicBookingHeader.h
+END
+ScenicAnnitoanView.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Code/!svn/ver/71912/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/View/ScenicAnnitoanView.h
+END

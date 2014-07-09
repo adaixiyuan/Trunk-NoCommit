@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Code/!svn/ver/93141/Mobile/IOS_Travel/Trunk/Classes/Elong/XGNewSystem/XGUI/XGHomeOrderViewController/Cell
+END
+XGOrderDetailCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/Code/!svn/ver/91272/Mobile/IOS_Travel/Trunk/Classes/Elong/XGNewSystem/XGUI/XGHomeOrderViewController/Cell/XGOrderDetailCell.h
+END
+XGOrderMemberCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/Code/!svn/ver/71956/Mobile/IOS_Travel/Trunk/Classes/Elong/XGNewSystem/XGUI/XGHomeOrderViewController/Cell/XGOrderMemberCell.xib
+END
+XGOrderDetailCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/Code/!svn/ver/91272/Mobile/IOS_Travel/Trunk/Classes/Elong/XGNewSystem/XGUI/XGHomeOrderViewController/Cell/XGOrderDetailCell.m
+END
+XGOrderMemberCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/Code/!svn/ver/71676/Mobile/IOS_Travel/Trunk/Classes/Elong/XGNewSystem/XGUI/XGHomeOrderViewController/Cell/XGOrderMemberCell.h
+END
+XGOrderMemberCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/Code/!svn/ver/93141/Mobile/IOS_Travel/Trunk/Classes/Elong/XGNewSystem/XGUI/XGHomeOrderViewController/Cell/XGOrderMemberCell.m
+END
+XGOrderDetailCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/Code/!svn/ver/91272/Mobile/IOS_Travel/Trunk/Classes/Elong/XGNewSystem/XGUI/XGHomeOrderViewController/Cell/XGOrderDetailCell.xib
+END

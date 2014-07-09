@@ -1,0 +1,25 @@
+/* 
+  Catalog.strings
+  ElongClient
+  LibraryElong
+
+  Created by 赵 海波 on 14-6-24.
+  Copyright (c) 2014年 elong. All rights reserved.
+*/
+
+/*
+ *  Account：用户账户信息
+ *  Forecast：天气预报
+ *  WapAndApp：App内引用Wap页面相关功能
+ *  CitySelect：城市选择
+ *  CreditCardSelect：信用卡选择
+ *  InvoiceSelect：邮寄发票
+ *  Countly：数据打点统计
+ *  CashAccount：现金账户
+ *  API：api请求相关
+ *  Debug：调试工具栏
+ *  Base：基类和基础动画
+ *  UniformCounter：统一收银台
+ *  Urgent：紧急提示文案
+ *  CacheManage：网络缓存管理
+*/

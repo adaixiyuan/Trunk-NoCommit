@@ -1,0 +1,6 @@
+<html>
+    <head>
+        <link href='content.css' rel='stylesheet' type='text/css' />
+    </head>
+    <body>{{content}}</body>
+</html>

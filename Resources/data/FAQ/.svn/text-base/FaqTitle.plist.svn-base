@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>3</key>
+	<array>
+		<string>艺龙返现</string>
+		<string>FaqCoupon</string>
+	</array>
+	<key>0</key>
+	<array>
+		<string>酒店预订</string>
+		<string>FaqHotelBooking</string>
+	</array>
+	<key>1</key>
+	<array>
+		<string>机票预订</string>
+		<string>FaqFlightBooking</string>
+	</array>
+	<key>2</key>
+	<array>
+		<string>酒店团购</string>
+		<string>FaqGroupon</string>
+	</array>
+	<key>4</key>
+	<array>
+		<string>艺龙消费券</string>
+		<string>FaqEloneCoupons</string>
+	</array>
+	<key>5</key>
+	<array>
+		<string>艺龙积分</string>
+		<string>FaqElonePoint</string>
+	</array>
+	<key>6</key>
+	<array>
+		<string>信用卡担保和支付</string>
+		<string>FaqCreditCard</string>
+	</array>
+	<key>7</key>
+	<array>
+		<string>常见问题</string>
+		<string>FaqNormal</string>
+	</array>
+	<key>8</key>
+	<array>
+		<string>火车票预订</string>
+		<string>FaqTrainBooking</string>
+	</array>
+</dict>
+</plist>

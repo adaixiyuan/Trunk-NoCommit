@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/Groupon
+END
+GouponRefundRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/Groupon/GouponRefundRequest.m
+END
+GOrderRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/Groupon/GOrderRequest.h
+END
+GListRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/Groupon/GListRequest.h
+END
+GrouponSharedInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/Groupon/GrouponSharedInfo.h
+END
+GGetCouponPassword.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/Groupon/GGetCouponPassword.h
+END
+GOrderRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/Groupon/GOrderRequest.m
+END
+GListRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/Groupon/GListRequest.m
+END
+GListFilterRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/Groupon/GListFilterRequest.h
+END
+GrouponSharedInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/Groupon/GrouponSharedInfo.m
+END
+GGetCouponPassword.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/Groupon/GGetCouponPassword.m
+END
+GrouponKeywordListRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/Groupon/GrouponKeywordListRequest.h
+END
+GListFilterRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/Groupon/GListFilterRequest.m
+END
+GListBrandFilterRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/Groupon/GListBrandFilterRequest.h
+END
+GrouponKeywordListRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/Groupon/GrouponKeywordListRequest.m
+END
+GOrderHistoryRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/Groupon/GOrderHistoryRequest.h
+END
+GListBrandFilterRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/Groupon/GListBrandFilterRequest.m
+END
+GOrderHistoryRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/Groupon/GOrderHistoryRequest.m
+END
+GDetailRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/Groupon/GDetailRequest.h
+END
+GCouponRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/Groupon/GCouponRequest.h
+END
+GouponRefundRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/Groupon/GouponRefundRequest.h
+END
+GDetailRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/Groupon/GDetailRequest.m
+END
+GCouponRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/Groupon/GCouponRequest.m
+END

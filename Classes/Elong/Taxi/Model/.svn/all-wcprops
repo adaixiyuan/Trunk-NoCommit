@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/Code/!svn/ver/77138/Mobile/IOS_Travel/Trunk/Classes/Elong/Taxi/Model
+END
+RentOrderModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Code/!svn/ver/53124/Mobile/IOS_Travel/Trunk/Classes/Elong/Taxi/Model/RentOrderModel.m
+END
+RentCarExpensesModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Code/!svn/ver/46605/Mobile/IOS_Travel/Trunk/Classes/Elong/Taxi/Model/RentCarExpensesModel.h
+END
+BaseModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Code/!svn/ver/49882/Mobile/IOS_Travel/Trunk/Classes/Elong/Taxi/Model/BaseModel.h
+END
+TaxiTypeModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Code/!svn/ver/48242/Mobile/IOS_Travel/Trunk/Classes/Elong/Taxi/Model/TaxiTypeModel.m
+END
+RentCarExpensesModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Code/!svn/ver/46605/Mobile/IOS_Travel/Trunk/Classes/Elong/Taxi/Model/RentCarExpensesModel.m
+END
+BaseModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Code/!svn/ver/57365/Mobile/IOS_Travel/Trunk/Classes/Elong/Taxi/Model/BaseModel.m
+END
+TaxiResponseInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Code/!svn/ver/34044/Mobile/IOS_Travel/Trunk/Classes/Elong/Taxi/Model/TaxiResponseInfo.h
+END
+RentCarOrderDetailBillModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Code/!svn/ver/64523/Mobile/IOS_Travel/Trunk/Classes/Elong/Taxi/Model/RentCarOrderDetailBillModel.h
+END
+TaxiResponseInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Code/!svn/ver/34044/Mobile/IOS_Travel/Trunk/Classes/Elong/Taxi/Model/TaxiResponseInfo.m
+END
+RentCarOrderDetailBillModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Code/!svn/ver/64523/Mobile/IOS_Travel/Trunk/Classes/Elong/Taxi/Model/RentCarOrderDetailBillModel.m
+END
+RentOrderDetailModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Code/!svn/ver/57303/Mobile/IOS_Travel/Trunk/Classes/Elong/Taxi/Model/RentOrderDetailModel.h
+END
+RentOrderDetailModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Code/!svn/ver/57303/Mobile/IOS_Travel/Trunk/Classes/Elong/Taxi/Model/RentOrderDetailModel.m
+END
+TaxiDetaileModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Code/!svn/ver/39721/Mobile/IOS_Travel/Trunk/Classes/Elong/Taxi/Model/TaxiDetaileModel.h
+END
+TaxiListModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Code/!svn/ver/39899/Mobile/IOS_Travel/Trunk/Classes/Elong/Taxi/Model/TaxiListModel.h
+END
+TaxiSupply.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Code/!svn/ver/34044/Mobile/IOS_Travel/Trunk/Classes/Elong/Taxi/Model/TaxiSupply.h
+END
+TaxiDetaileModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Code/!svn/ver/39721/Mobile/IOS_Travel/Trunk/Classes/Elong/Taxi/Model/TaxiDetaileModel.m
+END
+EvaluteModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Code/!svn/ver/64587/Mobile/IOS_Travel/Trunk/Classes/Elong/Taxi/Model/EvaluteModel.h
+END
+TaxiListModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Code/!svn/ver/39899/Mobile/IOS_Travel/Trunk/Classes/Elong/Taxi/Model/TaxiListModel.m
+END
+TaxiSupply.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Code/!svn/ver/34044/Mobile/IOS_Travel/Trunk/Classes/Elong/Taxi/Model/TaxiSupply.m
+END
+TaxiRequestInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Code/!svn/ver/34795/Mobile/IOS_Travel/Trunk/Classes/Elong/Taxi/Model/TaxiRequestInfo.h
+END
+EvaluteModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Code/!svn/ver/64523/Mobile/IOS_Travel/Trunk/Classes/Elong/Taxi/Model/EvaluteModel.m
+END
+TaxiOrderManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Code/!svn/ver/49033/Mobile/IOS_Travel/Trunk/Classes/Elong/Taxi/Model/TaxiOrderManager.h
+END
+TaxiRequestInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Code/!svn/ver/34044/Mobile/IOS_Travel/Trunk/Classes/Elong/Taxi/Model/TaxiRequestInfo.m
+END
+TaxiOrderManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Code/!svn/ver/77138/Mobile/IOS_Travel/Trunk/Classes/Elong/Taxi/Model/TaxiOrderManager.m
+END
+RentCity.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Code/!svn/ver/53847/Mobile/IOS_Travel/Trunk/Classes/Elong/Taxi/Model/RentCity.h
+END
+AddressInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Code/!svn/ver/59018/Mobile/IOS_Travel/Trunk/Classes/Elong/Taxi/Model/AddressInfo.h
+END
+RentFlight.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Code/!svn/ver/53847/Mobile/IOS_Travel/Trunk/Classes/Elong/Taxi/Model/RentFlight.h
+END
+RentCity.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Code/!svn/ver/64523/Mobile/IOS_Travel/Trunk/Classes/Elong/Taxi/Model/RentCity.m
+END
+AddressInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Code/!svn/ver/59018/Mobile/IOS_Travel/Trunk/Classes/Elong/Taxi/Model/AddressInfo.m
+END
+TaxiFillManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Code/!svn/ver/64523/Mobile/IOS_Travel/Trunk/Classes/Elong/Taxi/Model/TaxiFillManager.h
+END
+RentCarExplainManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Code/!svn/ver/50576/Mobile/IOS_Travel/Trunk/Classes/Elong/Taxi/Model/RentCarExplainManager.h
+END
+RentFlight.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Code/!svn/ver/64523/Mobile/IOS_Travel/Trunk/Classes/Elong/Taxi/Model/RentFlight.m
+END
+TaxiFillManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Code/!svn/ver/64523/Mobile/IOS_Travel/Trunk/Classes/Elong/Taxi/Model/TaxiFillManager.m
+END
+PickupModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Code/!svn/ver/55560/Mobile/IOS_Travel/Trunk/Classes/Elong/Taxi/Model/PickupModel.h
+END
+RentCarExplainManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Code/!svn/ver/64523/Mobile/IOS_Travel/Trunk/Classes/Elong/Taxi/Model/RentCarExplainManager.m
+END
+PickupModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Code/!svn/ver/55560/Mobile/IOS_Travel/Trunk/Classes/Elong/Taxi/Model/PickupModel.m
+END
+RentCarBillModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Code/!svn/ver/49170/Mobile/IOS_Travel/Trunk/Classes/Elong/Taxi/Model/RentCarBillModel.h
+END
+RentOrderModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Code/!svn/ver/53124/Mobile/IOS_Travel/Trunk/Classes/Elong/Taxi/Model/RentOrderModel.h
+END
+RentCarBillModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Code/!svn/ver/49170/Mobile/IOS_Travel/Trunk/Classes/Elong/Taxi/Model/RentCarBillModel.m
+END
+TaxiTypeModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Code/!svn/ver/64587/Mobile/IOS_Travel/Trunk/Classes/Elong/Taxi/Model/TaxiTypeModel.h
+END

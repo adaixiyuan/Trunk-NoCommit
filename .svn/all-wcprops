@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/Code/!svn/ver/94738/Mobile/IOS_Travel/Trunk
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/main.m
+END
+ElongClientAppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/Code/!svn/ver/83899/Mobile/IOS_Travel/Trunk/ElongClientAppDelegate.h
+END
+ElongClient-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/Code/!svn/ver/91659/Mobile/IOS_Travel/Trunk/ElongClient-Info.plist
+END
+ElongClient_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/Code/!svn/ver/92247/Mobile/IOS_Travel/Trunk/ElongClient_Prefix.pch
+END
+ElongClientAppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/Code/!svn/ver/88898/Mobile/IOS_Travel/Trunk/ElongClientAppDelegate.m
+END
+ElongClient.entitlements
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/ElongClient.entitlements
+END

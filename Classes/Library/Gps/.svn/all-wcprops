@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/Code/!svn/ver/91272/Mobile/IOS_Travel/Trunk/Classes/Library/Gps
+END
+GetCityWithPositioning.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Code/!svn/ver/84161/Mobile/IOS_Travel/Trunk/Classes/Library/Gps/GetCityWithPositioning.m
+END
+PositioningManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Code/!svn/ver/86440/Mobile/IOS_Travel/Trunk/Classes/Library/Gps/PositioningManager.h
+END
+PrecisePositioning.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Code/!svn/ver/84161/Mobile/IOS_Travel/Trunk/Classes/Library/Gps/PrecisePositioning.h
+END
+FastPositioning.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Code/!svn/ver/91272/Mobile/IOS_Travel/Trunk/Classes/Library/Gps/FastPositioning.h
+END
+PositioningManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Code/!svn/ver/87087/Mobile/IOS_Travel/Trunk/Classes/Library/Gps/PositioningManager.m
+END
+PrecisePositioning.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Code/!svn/ver/84161/Mobile/IOS_Travel/Trunk/Classes/Library/Gps/PrecisePositioning.m
+END
+FastPositioning.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Code/!svn/ver/91272/Mobile/IOS_Travel/Trunk/Classes/Library/Gps/FastPositioning.m
+END
+GetCityWithPositioning.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Code/!svn/ver/84161/Mobile/IOS_Travel/Trunk/Classes/Library/Gps/GetCityWithPositioning.h
+END

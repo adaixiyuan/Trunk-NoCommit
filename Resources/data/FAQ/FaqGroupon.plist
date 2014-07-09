@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>0</key>
+	<array>
+		<string>如何购买？</string>
+		<string>
+	只需在团购结束之前点击“抢购”按钮，根据提示下订单付费购买即可。
+</string>
+	</array>
+	<key>1</key>
+	<array>
+		<string>团购过程中订单是否可以保留支付？</string>
+		<string>
+	不可以保留支付。</string>
+	</array>
+	<key>2</key>
+	<array>
+		<string>什么是团购券，如何使用？</string>
+		<string>
+	团购券是指团购成功后，艺龙通过邮件或短信发送给您的电子支付凭证，其中包括券号、密码、有效期等信息。只要在有效期内提前联系商户进行预约，消费时告知商家&quot;团购项目名称、券号、密码&quot;即可。团购券券号及密码均为唯一，仅可使用一次，请您妥善保管。如因保管不善丢失或者被他人使用，则艺龙不承担任何责任，也不予补发。</string>
+	</array>
+	<key>3</key>
+	<array>
+		<string>我购买的券，可以给其它人使用么？</string>
+		<string>
+	当然可以！我们自己也可以购买团购券送给朋友，给TA一个惊喜 ：）</string>
+	</array>
+	<key>4</key>
+	<array>
+		<string>使用团购券时，能同时享用其它优惠么？</string>
+		<string>
+	除非有特殊说明，否则不可以同时享用其它优惠，亦不可享受艺龙积分。</string>
+	</array>
+	<key>5</key>
+	<array>
+		<string>预订酒店并支付后，到酒店还需要产生什么费用？</string>
+		<string>
+	您所支付的费用可享受该团购产品描述中包含的所有项目，其余未列举的视为入住后的个人消费，需另行与酒店结算。</string>
+	</array>
+	<key>6</key>
+	<array>
+		<string>我购买了团购券，到店后需要办理什么手续？</string>
+		<string>
+	入住酒店时，酒店按人数需每位入住人都要出示有效身份证件。有效证件包括：身份证、军人证、户口本（儿童）、港澳回乡证、港澳通行证（全称为港澳居民来往内地通行证）、台胞证（台湾居民来往大陆通行证）、中国护照、中国居留证、外国护照。
+	</string>
+	</array>
+	<key>7</key>
+	<array>
+		<string>房间因满房等其它原因无法预约，怎么办？</string>
+		<string>
+	非常抱歉耽误您的入住。请致电我们的客服中心4006-161616为您争取酒店房间；
+有房间：酒店客服会电话联系您，并协助您预约。
+无房间：我们将根据您的具体情况特殊处理。
+</string>
+	</array>
+	<key>8</key>
+	<array>
+		<string>什么情况下可以退款？</string>
+		<string>
+	以下情况可以退款：
+1. 团购结束时没有凑够团购人数；
+2. 团购成功后，商家原因不能提供团购产品，不可抗力原因除外。
+（我们会挑选经营状况良好的商家作为团购特约商家，尽量避免出现此类情况。）
+</string>
+	</array>
+	<key>9</key>
+	<array>
+		<string>未成团退款需多长时间收到？</string>
+		<string>
+	如未成团，艺龙将在2个工作日内将退款申请提交至银行,预计银行3至10个工作日退还到您支付时使用的信用卡中。</string>
+	</array>
+	<key>10</key>
+	<array>
+		<string>退款是否必须与原支付账户一致？</string>
+		<string>
+	退款账户必须与支付账户保持一致。</string>
+	</array>
+	<key>11</key>
+	<array>
+		<string>团购产品如何开具发票？</string>
+		<string>
+	团购成功的产品发票由艺龙公司开具，如您需要发票，请在团购过程中勾选&quot;需要发票&quot;，并填写正确、完整的发票信息及配送地址，需另加10元配送费（与团购产品一并支付）。配送时间：团购券使用后，5日内送达。
+配送方式：普通快递.
+</string>
+	</array>
+</dict>
+</plist>

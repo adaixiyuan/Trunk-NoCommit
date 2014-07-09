@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Code/!svn/ver/89218/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/Controller
+END
+ScenicLocationMapVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Code/!svn/ver/70578/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/Controller/ScenicLocationMapVC.m
+END
+ScenicListViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Code/!svn/ver/67186/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/Controller/ScenicListViewController.xib
+END
+ScenicSearchListViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/Code/!svn/ver/88542/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/Controller/ScenicSearchListViewController.m
+END
+ScenicOrderSuccessViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/Code/!svn/ver/88542/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/Controller/ScenicOrderSuccessViewController.m
+END
+ScenicThumbnailPicVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Code/!svn/ver/70464/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/Controller/ScenicThumbnailPicVC.h
+END
+ScenicListViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Code/!svn/ver/89218/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/Controller/ScenicListViewController.h
+END
+ScenicFillOrderVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Code/!svn/ver/73708/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/Controller/ScenicFillOrderVC.h
+END
+ScenicWebViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Code/!svn/ver/69655/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/Controller/ScenicWebViewController.h
+END
+ScenicThumbnailPicVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Code/!svn/ver/70464/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/Controller/ScenicThumbnailPicVC.m
+END
+ScenicListViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Code/!svn/ver/71912/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/Controller/ScenicListViewController.m
+END
+ScenicFillOrderVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Code/!svn/ver/73708/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/Controller/ScenicFillOrderVC.m
+END
+ScenicWebViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Code/!svn/ver/69655/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/Controller/ScenicWebViewController.m
+END
+ScenicHomeViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Code/!svn/ver/66507/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/Controller/ScenicHomeViewController.xib
+END
+ScenicHomeViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Code/!svn/ver/70494/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/Controller/ScenicHomeViewController.h
+END
+ScenicAreaDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/Code/!svn/ver/72781/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/Controller/ScenicAreaDetailViewController.h
+END
+ScenicHomeViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/Code/!svn/ver/73348/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/Controller/ScenicHomeViewController.m
+END
+ScenicOrderSuccessViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/Code/!svn/ver/73708/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/Controller/ScenicOrderSuccessViewController.xib
+END
+ScenicLocationMapVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Code/!svn/ver/69860/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/Controller/ScenicLocationMapVC.h
+END
+ScenicAreaDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/Code/!svn/ver/72781/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/Controller/ScenicAreaDetailViewController.m
+END
+ScenicSearchListViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/Code/!svn/ver/71912/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/Controller/ScenicSearchListViewController.h
+END
+ScenicOrderSuccessViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/Code/!svn/ver/73708/Mobile/IOS_Travel/Trunk/Classes/Elong/ScenicTickets/Controller/ScenicOrderSuccessViewController.h
+END

@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Code/!svn/ver/89691/Mobile/IOS_Travel/Trunk/Classes/Elong/Train/Train_Search
+END
+TrainSearchDepartureTimeViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/Code/!svn/ver/86546/Mobile/IOS_Travel/Trunk/Classes/Elong/Train/Train_Search/TrainSearchDepartureTimeViewController.h
+END
+TrainArriveStation.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Code/!svn/ver/86546/Mobile/IOS_Travel/Trunk/Classes/Elong/Train/Train_Search/TrainArriveStation.m
+END
+TrainSearchDepartureTimeViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/Code/!svn/ver/86546/Mobile/IOS_Travel/Trunk/Classes/Elong/Train/Train_Search/TrainSearchDepartureTimeViewController.m
+END
+TrainSearchArrivalTimeViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/Code/!svn/ver/86546/Mobile/IOS_Travel/Trunk/Classes/Elong/Train/Train_Search/TrainSearchArrivalTimeViewController.h
+END
+TrainSearchTypeViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Code/!svn/ver/86546/Mobile/IOS_Travel/Trunk/Classes/Elong/Train/Train_Search/TrainSearchTypeViewController.h
+END
+TrainCity.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Code/!svn/ver/86546/Mobile/IOS_Travel/Trunk/Classes/Elong/Train/Train_Search/TrainCity.h
+END
+TrainSearchArrivalTimeViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/Code/!svn/ver/86546/Mobile/IOS_Travel/Trunk/Classes/Elong/Train/Train_Search/TrainSearchArrivalTimeViewController.m
+END
+TrainCityUpdate.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Code/!svn/ver/86546/Mobile/IOS_Travel/Trunk/Classes/Elong/Train/Train_Search/TrainCityUpdate.h
+END
+TrainSearchTypeViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/Code/!svn/ver/86546/Mobile/IOS_Travel/Trunk/Classes/Elong/Train/Train_Search/TrainSearchTypeViewController.m
+END
+TrainCity.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Code/!svn/ver/86546/Mobile/IOS_Travel/Trunk/Classes/Elong/Train/Train_Search/TrainCity.m
+END
+TrainSearchFilterController.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Code/!svn/ver/86546/Mobile/IOS_Travel/Trunk/Classes/Elong/Train/Train_Search/TrainSearchFilterController.h
+END
+TrainCityUpdate.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Code/!svn/ver/86546/Mobile/IOS_Travel/Trunk/Classes/Elong/Train/Train_Search/TrainCityUpdate.m
+END
+TrainSearchDetailVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Code/!svn/ver/86546/Mobile/IOS_Travel/Trunk/Classes/Elong/Train/Train_Search/TrainSearchDetailVC.h
+END
+TrainHomeVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Code/!svn/ver/89691/Mobile/IOS_Travel/Trunk/Classes/Elong/Train/Train_Search/TrainHomeVC.h
+END
+TrainDepartStation.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Code/!svn/ver/86546/Mobile/IOS_Travel/Trunk/Classes/Elong/Train/Train_Search/TrainDepartStation.h
+END
+TrainSearchFilterController.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Code/!svn/ver/86546/Mobile/IOS_Travel/Trunk/Classes/Elong/Train/Train_Search/TrainSearchFilterController.m
+END
+TrainSearchDetailVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Code/!svn/ver/89621/Mobile/IOS_Travel/Trunk/Classes/Elong/Train/Train_Search/TrainSearchDetailVC.m
+END
+TrainHomeVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Code/!svn/ver/89691/Mobile/IOS_Travel/Trunk/Classes/Elong/Train/Train_Search/TrainHomeVC.m
+END
+TrainDepartStation.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Code/!svn/ver/86546/Mobile/IOS_Travel/Trunk/Classes/Elong/Train/Train_Search/TrainDepartStation.m
+END
+TrainArriveStation.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Code/!svn/ver/86546/Mobile/IOS_Travel/Trunk/Classes/Elong/Train/Train_Search/TrainArriveStation.h
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Code/!svn/ver/84987/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/TouchJSON/Experimental
+END
+CFilteringJSONSerializer.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/Code/!svn/ver/84987/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/TouchJSON/Experimental/CFilteringJSONSerializer.h
+END
+CJSONSerialization.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/Code/!svn/ver/84987/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/TouchJSON/Experimental/CJSONSerialization.h
+END
+CJSONDeserializer_BlocksExtensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Code/!svn/ver/84987/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/TouchJSON/Experimental/CJSONDeserializer_BlocksExtensions.h
+END
+CFilteringJSONSerializer.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/Code/!svn/ver/84987/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/TouchJSON/Experimental/CFilteringJSONSerializer.m
+END
+CJSONSerialization.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/Code/!svn/ver/84987/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/TouchJSON/Experimental/CJSONSerialization.m
+END
+CJSONDeserializer_BlocksExtensions.m
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/Code/!svn/ver/84987/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/TouchJSON/Experimental/CJSONDeserializer_BlocksExtensions.m
+END
+CJSONSerializedData.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/Code/!svn/ver/84987/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/TouchJSON/Experimental/CJSONSerializedData.h
+END
+CJSONSerializedData.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/Code/!svn/ver/84987/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/TouchJSON/Experimental/CJSONSerializedData.m
+END

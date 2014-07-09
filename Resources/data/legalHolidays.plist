@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GreenDays</key>
+	<array>
+		<string>2014-01-01</string>
+		<string>2014-01-31</string>
+		<string>2014-02-01</string>
+		<string>2014-02-02</string>
+		<string>2014-02-03</string>
+		<string>2014-02-04</string>
+		<string>2014-02-05</string>
+		<string>2014-02-06</string>
+		<string>2014-04-05</string>
+		<string>2014-04-06</string>
+		<string>2014-04-07</string>
+		<string>2014-05-01</string>
+		<string>2014-05-02</string>
+		<string>2014-05-03</string>
+		<string>2014-05-31</string>
+		<string>2014-06-01</string>
+		<string>2014-06-02</string>
+		<string>2014-09-06</string>
+		<string>2014-09-07</string>
+		<string>2014-09-08</string>
+		<string>2014-10-01</string>
+		<string>2014-10-02</string>
+		<string>2014-10-03</string>
+		<string>2014-10-04</string>
+		<string>2014-10-05</string>
+		<string>2014-10-06</string>
+		<string>2014-10-07</string>
+	</array>
+	<key>GrayDays</key>
+	<array>
+		<string>2014-01-26</string>
+		<string>2014-02-08</string>
+		<string>2014-05-04</string>
+		<string>2014-09-28</string>
+		<string>2014-10-11</string>
+	</array>
+</dict>
+</plist>

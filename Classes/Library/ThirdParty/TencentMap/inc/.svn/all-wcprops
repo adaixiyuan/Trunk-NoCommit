@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Code/!svn/ver/88161/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/TencentMap/inc
+END
+QMapView.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Code/!svn/ver/88161/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/TencentMap/inc/QMapView.h
+END
+QStreetViewKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Code/!svn/ver/88161/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/TencentMap/inc/QStreetViewKit.h
+END
+QAnnotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Code/!svn/ver/88161/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/TencentMap/inc/QAnnotation.h
+END
+QOverlayView.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Code/!svn/ver/88161/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/TencentMap/inc/QOverlayView.h
+END
+QPoiSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Code/!svn/ver/88161/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/TencentMap/inc/QPoiSearch.h
+END
+QOverViewRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Code/!svn/ver/88161/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/TencentMap/inc/QOverViewRequest.h
+END
+QOverlay.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Code/!svn/ver/88161/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/TencentMap/inc/QOverlay.h
+END
+QPolygonView.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Code/!svn/ver/88161/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/TencentMap/inc/QPolygonView.h
+END
+QPointAnnotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Code/!svn/ver/88161/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/TencentMap/inc/QPointAnnotation.h
+END
+QPolygon.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Code/!svn/ver/88161/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/TencentMap/inc/QPolygon.h
+END
+QAppKeyCheck.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Code/!svn/ver/88161/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/TencentMap/inc/QAppKeyCheck.h
+END
+QGeocoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Code/!svn/ver/88161/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/TencentMap/inc/QGeocoder.h
+END
+QOverlayPathView.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Code/!svn/ver/88161/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/TencentMap/inc/QOverlayPathView.h
+END
+QGeometry.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Code/!svn/ver/88161/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/TencentMap/inc/QGeometry.h
+END
+QCircleView.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Code/!svn/ver/88161/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/TencentMap/inc/QCircleView.h
+END
+QTypes_inc.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Code/!svn/ver/88161/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/TencentMap/inc/QTypes_inc.h
+END
+QPlacemark.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Code/!svn/ver/88161/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/TencentMap/inc/QPlacemark.h
+END
+QStreetView.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Code/!svn/ver/88161/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/TencentMap/inc/QStreetView.h
+END
+QCircle.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Code/!svn/ver/88161/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/TencentMap/inc/QCircle.h
+END
+QTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Code/!svn/ver/88161/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/TencentMap/inc/QTypes.h
+END
+QMultiPoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Code/!svn/ver/88161/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/TencentMap/inc/QMultiPoint.h
+END
+QSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Code/!svn/ver/88161/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/TencentMap/inc/QSearch.h
+END
+QPinAnnotationView.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Code/!svn/ver/88161/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/TencentMap/inc/QPinAnnotationView.h
+END
+QReverseGeocoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Code/!svn/ver/88161/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/TencentMap/inc/QReverseGeocoder.h
+END
+QRouteSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Code/!svn/ver/88161/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/TencentMap/inc/QRouteSearch.h
+END
+QMapKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Code/!svn/ver/88161/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/TencentMap/inc/QMapKit.h
+END
+QPolylineView.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Code/!svn/ver/88161/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/TencentMap/inc/QPolylineView.h
+END
+QPolyline.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Code/!svn/ver/88161/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/TencentMap/inc/QPolyline.h
+END
+QShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Code/!svn/ver/88161/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/TencentMap/inc/QShape.h
+END
+QStreetViewOverlay.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Code/!svn/ver/88161/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/TencentMap/inc/QStreetViewOverlay.h
+END
+QAnnotationView.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Code/!svn/ver/88161/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/TencentMap/inc/QAnnotationView.h
+END
+QUserLocation.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Code/!svn/ver/88161/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/TencentMap/inc/QUserLocation.h
+END

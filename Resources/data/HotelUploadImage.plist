@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>餐厅</key>
+	<string>1</string>
+	<key>休闲</key>
+	<string>2</string>
+	<key>会议室</key>
+	<string>3</string>
+	<key>酒店外观</key>
+	<string>5</string>
+	<key>大堂</key>
+	<string>6</string>
+	<key>其他</key>
+	<string>10</string>
+	<key>公共区域</key>
+	<string>11</string>
+	<key>周边景点</key>
+	<string>12</string>
+	<key>卫生间</key>
+	<string>0000</string>
+</dict>
+</plist>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>0</key>
+	<array>
+		<string>手机网上预订是否可以获得积分？</string>
+		<string>
+	可以。</string>
+	</array>
+	<key>1</key>
+	<array>
+		<string>如何获得积分？</string>
+		<string>
+	您可以通过艺龙预订酒店或机票，成功订购即可获得积分。注：仅限机票或前台现付酒店订单。</string>
+	</array>
+	<key>2</key>
+	<array>
+		<string>积分有什么用？</string>
+		<string>
+	积分是艺龙给予会员的奖励回馈，可用于兑换奖品。积分越高，可以兑换的奖品也越丰厚。</string>
+	</array>
+	<key>3</key>
+	<array>
+		<string>艺龙积分的有效期是多久? </string>
+		<string>
+	2008年11月11日起普通会员积分有效为1年；贵宾会员与龙萃尊客的积分有效期为2年；2008年11月11日前获得的积分从获得日期开始有效期3年。</string>
+	</array>
+	<key>4</key>
+	<array>
+		<string>艺龙积分生效时间？</string>
+		<string>
+	酒店预订：积分于酒店最终确认客人如约入住并成功结账，方可生效 (通常结账后3个工作日)；
+机票预订：积分在客人成功购买机票且在该航班起飞后的24小时内生效；
+自由行产品：积分在客人航班成功起飞后的24小时内生效。</string>
+	</array>
+</dict>
+</plist>

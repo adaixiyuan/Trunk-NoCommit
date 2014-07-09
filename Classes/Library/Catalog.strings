@@ -1,0 +1,19 @@
+/* 
+  Catalog.strings
+  ElongClient
+  Library
+ 
+  Created by 赵 海波 on 14-6-24.
+  Copyright (c) 2014年 elong. All rights reserved.
+*/
+
+/*
+ *  MacroDefine：包含各类宏定义文件
+ *  ViewComponet：通用视图控件
+ *  AddressBook：地址簿
+ *  PublicMethods：公共方法和类目
+ *  CrashCollection：用户崩溃日志收集
+ *  Encoding：字符串加解密
+ *  Gps：定位相关
+ *  ThirdParty：第三方组件库
+*/

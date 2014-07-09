@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Code/!svn/ver/87914/Mobile/IOS_Travel/Trunk/Classes/Elong/Flight/FlightOrder/Model
+END
+FlightSeatItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Code/!svn/ver/87914/Mobile/IOS_Travel/Trunk/Classes/Elong/Flight/FlightOrder/Model/FlightSeatItem.h
+END
+FOrderGetSeatMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Code/!svn/ver/87914/Mobile/IOS_Travel/Trunk/Classes/Elong/Flight/FlightOrder/Model/FOrderGetSeatMap.h
+END
+FlightSeatMap.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Code/!svn/ver/87914/Mobile/IOS_Travel/Trunk/Classes/Elong/Flight/FlightOrder/Model/FlightSeatMap.m
+END
+FOrderSelectSeat.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Code/!svn/ver/87914/Mobile/IOS_Travel/Trunk/Classes/Elong/Flight/FlightOrder/Model/FOrderSelectSeat.h
+END
+FlightSeatItem.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Code/!svn/ver/87914/Mobile/IOS_Travel/Trunk/Classes/Elong/Flight/FlightOrder/Model/FlightSeatItem.m
+END
+FOrderGetSeatMap.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Code/!svn/ver/87914/Mobile/IOS_Travel/Trunk/Classes/Elong/Flight/FlightOrder/Model/FOrderGetSeatMap.m
+END
+FlightSeatDeck.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Code/!svn/ver/87914/Mobile/IOS_Travel/Trunk/Classes/Elong/Flight/FlightOrder/Model/FlightSeatDeck.h
+END
+FlightSeatRow.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Code/!svn/ver/87914/Mobile/IOS_Travel/Trunk/Classes/Elong/Flight/FlightOrder/Model/FlightSeatRow.h
+END
+FOrderSelectSeat.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Code/!svn/ver/87914/Mobile/IOS_Travel/Trunk/Classes/Elong/Flight/FlightOrder/Model/FOrderSelectSeat.m
+END
+FlightSeatDeck.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Code/!svn/ver/87914/Mobile/IOS_Travel/Trunk/Classes/Elong/Flight/FlightOrder/Model/FlightSeatDeck.m
+END
+FlightSeatRow.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Code/!svn/ver/87914/Mobile/IOS_Travel/Trunk/Classes/Elong/Flight/FlightOrder/Model/FlightSeatRow.m
+END
+FlightSeatMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Code/!svn/ver/87914/Mobile/IOS_Travel/Trunk/Classes/Elong/Flight/FlightOrder/Model/FlightSeatMap.h
+END

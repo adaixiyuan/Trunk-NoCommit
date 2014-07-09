@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Code/!svn/ver/90569/Mobile/IOS_Travel/Trunk/Classes/Elong/Train/Train_Order_Detail
+END
+TrainTickets.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Code/!svn/ver/86546/Mobile/IOS_Travel/Trunk/Classes/Elong/Train/Train_Order_Detail/TrainTickets.m
+END
+TrainOrderDetailTicketView.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Code/!svn/ver/86546/Mobile/IOS_Travel/Trunk/Classes/Elong/Train/Train_Order_Detail/TrainOrderDetailTicketView.h
+END
+TrainOrderDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/Code/!svn/ver/86546/Mobile/IOS_Travel/Trunk/Classes/Elong/Train/Train_Order_Detail/TrainOrderDetailViewController.h
+END
+TrainTicketRefundCheckView.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Code/!svn/ver/86546/Mobile/IOS_Travel/Trunk/Classes/Elong/Train/Train_Order_Detail/TrainTicketRefundCheckView.h
+END
+TrainOrderDetailTicketView.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Code/!svn/ver/86546/Mobile/IOS_Travel/Trunk/Classes/Elong/Train/Train_Order_Detail/TrainOrderDetailTicketView.m
+END
+TrainOrderDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/Code/!svn/ver/90547/Mobile/IOS_Travel/Trunk/Classes/Elong/Train/Train_Order_Detail/TrainOrderDetailViewController.m
+END
+TrainTicketRefundView.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Code/!svn/ver/86546/Mobile/IOS_Travel/Trunk/Classes/Elong/Train/Train_Order_Detail/TrainTicketRefundView.h
+END
+TrainTicketRefundCheckView.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/Code/!svn/ver/86546/Mobile/IOS_Travel/Trunk/Classes/Elong/Train/Train_Order_Detail/TrainTicketRefundCheckView.m
+END
+TrainOrderDetailPageViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/Code/!svn/ver/90569/Mobile/IOS_Travel/Trunk/Classes/Elong/Train/Train_Order_Detail/TrainOrderDetailPageViewController.xib
+END
+TrainTickets.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Code/!svn/ver/86546/Mobile/IOS_Travel/Trunk/Classes/Elong/Train/Train_Order_Detail/TrainTickets.h
+END
+TrainTicketRefundView.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Code/!svn/ver/86546/Mobile/IOS_Travel/Trunk/Classes/Elong/Train/Train_Order_Detail/TrainTicketRefundView.m
+END

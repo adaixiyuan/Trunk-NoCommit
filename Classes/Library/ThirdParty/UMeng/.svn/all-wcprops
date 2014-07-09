@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Code/!svn/ver/91502/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/UMeng
+END
+UMengEventHotel.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Code/!svn/ver/91502/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/UMeng/UMengEventHotel.h
+END
+UMengEventFlight.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Code/!svn/ver/84550/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/UMeng/UMengEventFlight.h
+END
+UMengEventTrain.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Code/!svn/ver/84550/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/UMeng/UMengEventTrain.h
+END
+UMengEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Code/!svn/ver/84550/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/UMeng/UMengEvent.h
+END
+UMengEventUserCenter.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Code/!svn/ver/91502/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/UMeng/UMengEventUserCenter.h
+END
+MobClick.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Code/!svn/ver/84550/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/UMeng/MobClick.h
+END
+UMengEventCar.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Code/!svn/ver/84550/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/UMeng/UMengEventCar.h
+END
+UMengEventC2C.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Code/!svn/ver/91279/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/UMeng/UMengEventC2C.h
+END
+UMengEventHome.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Code/!svn/ver/84550/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/UMeng/UMengEventHome.h
+END
+UMengEventGroupon.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Code/!svn/ver/84550/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/UMeng/UMengEventGroupon.h
+END
+libMobClickLibrary.a
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Code/!svn/ver/84550/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/UMeng/libMobClickLibrary.a
+END

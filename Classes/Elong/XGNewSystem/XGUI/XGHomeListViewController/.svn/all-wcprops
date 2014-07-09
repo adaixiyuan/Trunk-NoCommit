@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Code/!svn/ver/93141/Mobile/IOS_Travel/Trunk/Classes/Elong/XGNewSystem/XGUI/XGHomeListViewController
+END
+XGHomeListViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/Code/!svn/ver/91272/Mobile/IOS_Travel/Trunk/Classes/Elong/XGNewSystem/XGUI/XGHomeListViewController/XGHomeListViewController.h
+END
+XGHomeListViewControllerHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Code/!svn/ver/72262/Mobile/IOS_Travel/Trunk/Classes/Elong/XGNewSystem/XGUI/XGHomeListViewController/XGHomeListViewControllerHelper.h
+END
+XGHomeTableViewDelegateAndDataSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/Code/!svn/ver/91272/Mobile/IOS_Travel/Trunk/Classes/Elong/XGNewSystem/XGUI/XGHomeListViewController/XGHomeTableViewDelegateAndDataSource.h
+END
+XGHomeListViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/Code/!svn/ver/93048/Mobile/IOS_Travel/Trunk/Classes/Elong/XGNewSystem/XGUI/XGHomeListViewController/XGHomeListViewController.m
+END
+XGHomeListViewControllerHelper.m
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/Code/!svn/ver/91272/Mobile/IOS_Travel/Trunk/Classes/Elong/XGNewSystem/XGUI/XGHomeListViewController/XGHomeListViewControllerHelper.m
+END
+XGHomeTableViewDelegateAndDataSource.m
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/Code/!svn/ver/93141/Mobile/IOS_Travel/Trunk/Classes/Elong/XGNewSystem/XGUI/XGHomeListViewController/XGHomeTableViewDelegateAndDataSource.m
+END

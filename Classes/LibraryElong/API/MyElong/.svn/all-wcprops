@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/MyElong
+END
+JAddCustomer.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/MyElong/JAddCustomer.m
+END
+JDeleteGrouponFavorite.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/MyElong/JDeleteGrouponFavorite.m
+END
+JModifyCard.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/MyElong/JModifyCard.h
+END
+JAddCard.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/MyElong/JAddCard.h
+END
+JDeleteCustomer.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/MyElong/JDeleteCustomer.h
+END
+JActivateCoupon.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/MyElong/JActivateCoupon.h
+END
+JGetAddress.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/MyElong/JGetAddress.h
+END
+JModifyCard.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/MyElong/JModifyCard.m
+END
+JAddCard.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/MyElong/JAddCard.m
+END
+JDeleteCustomer.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/MyElong/JDeleteCustomer.m
+END
+JActivateCoupon.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/MyElong/JActivateCoupon.m
+END
+JGetAddress.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/MyElong/JGetAddress.m
+END
+JDeleteCard.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/MyElong/JDeleteCard.h
+END
+JModifyAddress.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/MyElong/JModifyAddress.h
+END
+JDeleteHotelFavorite.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/MyElong/JDeleteHotelFavorite.h
+END
+JDeleteCard.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/MyElong/JDeleteCard.m
+END
+JModifyAddress.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/MyElong/JModifyAddress.m
+END
+JDeleteHotelFavorite.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/MyElong/JDeleteHotelFavorite.m
+END
+JAccount.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/MyElong/JAccount.h
+END
+CommentHotelRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/MyElong/CommentHotelRequest.h
+END
+JAddAddress.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/MyElong/JAddAddress.h
+END
+JVerifyCard.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/MyElong/JVerifyCard.h
+END
+JCustomer.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/MyElong/JCustomer.h
+END
+JAccount.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/MyElong/JAccount.m
+END
+MyElongPostManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/MyElong/MyElongPostManager.h
+END
+CommentHotelRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/MyElong/CommentHotelRequest.m
+END
+WeixinRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/MyElong/WeixinRequest.h
+END
+JCoupon.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/MyElong/JCoupon.h
+END
+JAddAddress.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/MyElong/JAddAddress.m
+END
+JVerifyCard.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/MyElong/JVerifyCard.m
+END
+AppConfigRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/MyElong/AppConfigRequest.h
+END
+JCustomer.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/MyElong/JCustomer.m
+END
+MyElongPostManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/MyElong/MyElongPostManager.m
+END
+WeixinRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/MyElong/WeixinRequest.m
+END
+JDeleteAddress.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/MyElong/JDeleteAddress.h
+END
+JCoupon.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/MyElong/JCoupon.m
+END
+JCard.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/MyElong/JCard.h
+END
+JModifyCustomer.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/MyElong/JModifyCustomer.h
+END
+AppConfigRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/MyElong/AppConfigRequest.m
+END
+JAddCustomer.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/MyElong/JAddCustomer.h
+END
+JDeleteGrouponFavorite.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/MyElong/JDeleteGrouponFavorite.h
+END
+JDeleteAddress.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/MyElong/JDeleteAddress.m
+END
+JCard.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/MyElong/JCard.m
+END
+JModifyCustomer.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/MyElong/JModifyCustomer.m
+END

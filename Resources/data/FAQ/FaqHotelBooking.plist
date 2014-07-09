@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>0</key>
+	<array>
+		<string>艺龙旅行上的价格和网站上的价格是否相同？</string>
+		<string>
+	相同。</string>
+	</array>
+	<key>1</key>
+	<array>
+		<string>填写预订单时我需要注意哪些事项？</string>
+		<string>
+	1.在预订时每个房间至少提供一个入住客人的姓名，以方便酒店找到您的预订从而方便您办理入住。
+	2.在填写入住人及联系人信息时，务必提供客人的真实信息，以便预订确认过程中有任何问题艺龙及时与您确认。
+	3.房价栏中的信息是否已包含了早餐。
+</string>
+	</array>
+	<key>2</key>
+	<array>
+		<string>我可以预订当天入住的酒店吗？</string>
+		<string>
+	可以。为了当天可以顺利入住，您的预订最好在当天的下午6点前完成。
+</string>
+	</array>
+	<key>3</key>
+	<array>
+		<string>提交酒店订单后，需要等多久才能得到确认？</string>
+		<string>
+	由于艺龙需要得到酒店方面的确认之后，才能给予您确认。期间会需要一些时间，请您耐心等待。一般情况下：当天入住的，一般在订单提交后1小时内确认；隔天入住的，一般最晚在提交订单次日10：30前确认；注：遇国定假日会展等旺季时，会有延迟。
+	</string>
+	</array>
+	<key>4</key>
+	<array>
+		<string>一定要选择最晚到店时间么？ </string>
+		<string>
+	因酒店排房需要，通常将保留时间控制在3个小时，您可以先按估计时间保留，如果行程有变，您可以在最晚保留时间前致电艺龙400-666-1166，进行更改。
+	</string>
+	</array>
+</dict>
+</plist>

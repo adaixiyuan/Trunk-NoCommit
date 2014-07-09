@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/Code/!svn/ver/68530/Mobile/IOS_Travel/Trunk/Resources/data/FAQ
+END
+FaqTitle.plist
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Resources/data/FAQ/FaqTitle.plist
+END
+FaqCoupon.plist
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Code/!svn/ver/68530/Mobile/IOS_Travel/Trunk/Resources/data/FAQ/FaqCoupon.plist
+END
+FaqCreditCard.plist
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Resources/data/FAQ/FaqCreditCard.plist
+END
+FaqHotelBooking.plist
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Resources/data/FAQ/FaqHotelBooking.plist
+END
+FaqFlightBooking.plist
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Resources/data/FAQ/FaqFlightBooking.plist
+END
+FaqTrainBooking.plist
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Resources/data/FAQ/FaqTrainBooking.plist
+END
+FaqNormal.plist
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Resources/data/FAQ/FaqNormal.plist
+END
+FaqEloneCoupons.plist
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Resources/data/FAQ/FaqEloneCoupons.plist
+END
+FaqGroupon.plist
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Resources/data/FAQ/FaqGroupon.plist
+END
+FaqElonePoint.plist
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Resources/data/FAQ/FaqElonePoint.plist
+END

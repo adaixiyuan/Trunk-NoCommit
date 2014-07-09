@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>热门</key>
+	<array>
+		<array>
+			<string>曼谷    Bangkok,泰国</string>
+            <string>曼谷</string>
+			<string>mangu</string>
+			<string>MG</string>
+			<string>Bangkok</string>
+			<string>TH</string>
+			<string>A117D333-6210-FB9E-CF22-A6F73C907FFE</string>
+		</array>
+		<array>
+			<string>新加坡    Singapore,新加坡</string>
+            <string>新加坡</string>
+			<string>xinjiapo</string>
+			<string>XJP</string>
+			<string>Singapore</string>
+			<string>SG</string>
+			<string>2EBABFD7-C0B7-4EDC-A830-BE4D93D426FF</string>
+		</array>
+		<array>
+			<string>首尔    Seoul,韩国</string>
+            <string>首尔</string>
+			<string>shouer</string>
+			<string>SE</string>
+			<string>Seoul</string>
+			<string>KR</string>
+			<string>A11DA333-6210-FB9E-DEF2-BB7591907FFC</string>
+		</array>
+		<array>
+			<string>普吉岛    Phuket,泰国</string>
+            <string>普吉岛</string>
+			<string>pujidao</string>
+			<string>PJD</string>
+			<string>Phuket</string>
+			<string>TH</string>
+			<string>0913ABB4-11AF-4FDF-9C99-74D8A89D8AD1</string>
+		</array>
+		<array>
+			<string>台北    Taipei,中国</string>
+            <string>台北</string>
+			<string>taibei</string>
+			<string>TB</string>
+			<string>Taipei</string>
+			<string>TW</string>
+			<string>280c4712-8718-4a72-864e-dfbcf022b4e6</string>
+		</array>
+		<array>
+			<string>东京    Tokyo,日本</string>
+            <string>东京</string>
+			<string>dongjing</string>
+			<string>DJ</string>
+			<string>Tokyo</string>
+			<string>JP</string>
+			<string>D1474120-AF9F-48D3-917C-B4673EDD264C</string>
+		</array>
+		<array>
+			<string>拉斯维加斯    Las Vegas,美国</string>
+            <string>拉斯维加斯</string>
+			<string>lasiweijiasi</string>
+			<string>LSWJS</string>
+			<string>Las Vegas</string>
+			<string>US</string>
+			<string>4FDED4FF-AF4A-41B7-976B-BD5BD436F135</string>
+		</array>
+		<array>
+			<string>吉隆坡    Kuala Lumpur,马来西亚</string>
+            <string>吉隆坡</string>
+			<string>jilongpo</string>
+			<string>JLP</string>
+			<string>Kuala Lumpur</string>
+			<string>MY</string>
+			<string>7A9B6669-110A-4F80-94C4-43BD246C3F17</string>
+		</array>
+		<array>
+			<string>纽约    New York,美国</string>
+            <string>纽约</string>
+			<string>niuyue</string>
+			<string>NY</string>
+			<string>New York</string>
+			<string>US</string>
+			<string>572B0850-4E3F-469B-87B2-C17ED3EA049B</string>
+		</array>
+		<array>
+			<string>洛杉矶    Los Angeles,美国</string>
+            <string>洛杉矶</string>
+			<string>luoshanji</string>
+			<string>LSJ</string>
+			<string>Los Angeles</string>
+			<string>US</string>
+			<string>B092733B-991A-47B1-8F10-46EA10FA8E00</string>
+		</array>
+		<array>
+			<string>巴黎    Paris,法国</string>
+            <string>巴黎</string>
+			<string>bali</string>
+			<string>BL</string>
+			<string>Paris</string>
+			<string>FR</string>
+			<string>9B0681E3-6D9F-47E8-8E14-5389F83569DD</string>
+		</array>
+		<array>
+			<string>清迈    Chiang Mai,泰国</string>
+            <string>清迈</string>
+			<string>qingmai</string>
+			<string>QM</string>
+			<string>Chiang Mai</string>
+			<string>TH</string>
+			<string>2D48A8FA-3714-4100-97A4-764D06D582F3</string>
+		</array>
+		<array>
+			<string>芭堤雅    Pattaya,泰国</string>
+            <string>芭提雅</string>
+			<string>badiya</string>
+			<string>BDY</string>
+			<string>Pattaya</string>
+			<string>TH</string>
+			<string>723769A1-CAFF-4ABC-8C8A-36CB1E93AEBD</string>
+		</array>
+		<array>
+			<string>悉尼    Sydney,澳大利亚</string>
+            <string>悉尼</string>
+			<string>xini</string>
+			<string>XN</string>
+			<string>Sydney</string>
+			<string>AU</string>
+			<string>BF1CDA3C-DAB8-451C-900F-AFF5F59634F7</string>
+		</array>
+		<array>
+			<string>伦敦    London,英国</string>
+            <string>伦敦</string>
+			<string>lundun</string>
+			<string>LD</string>
+			<string>London</string>
+			<string>GB</string>
+			<string>3D931ACE-E3FE-46B4-A243-61D44A22053B</string>
+		</array>
+		<array>
+			<string>塞班岛    Saipan,美国</string>
+            <string>塞班岛</string>
+			<string>saibandao</string>
+			<string>SBD</string>
+			<string>Saipan</string>
+			<string>MP</string>
+			<string>AC108AC3-1C20-8B09-FD22-49199C490800</string>
+		</array>
+		<array>
+			<string>巴厘岛    Bali,印度尼西亚</string>
+            <string>巴厘岛</string>
+			<string>balidao</string>
+			<string>BLD</string>
+			<string>Bali</string>
+			<string>ID</string>
+			<string>06F38ECD-7DEE-4B16-821D-EC1FC9B13438</string>
+		</array>
+		<array>
+			<string>暹粒    Siem Reap,柬埔寨</string>
+            <string>暹粒</string>
+			<string>xianli</string>
+			<string>XL</string>
+			<string>Siem Reap</string>
+			<string>KH</string>
+			<string>919105E1-4E93-4B22-8685-874D50FC4496</string>
+		</array>
+        <array>
+			<string>长滩岛   Boracay,米沙鄢群岛,菲律宾</string>
+            <string>长滩岛</string>
+			<string>changtandao</string>
+			<string>CTD</string>
+			<string>Boracay</string>
+			<string>PH</string>
+			<string>D5420035-3D67-49B2-B3D5-FE9E2CC526AC</string>
+		</array>
+        <array>
+			<string>旧金山   San Francisco,加利福尼亚,美国</string>
+            <string>旧金山</string>
+			<string>jiujinshan</string>
+			<string>JJS</string>
+			<string>San Francisco</string>
+			<string>US</string>
+			<string>8D4456FB-4038-4A55-BCBE-AA544AB549AD</string>
+		</array>
+	</array>
+</dict>
+</plist>

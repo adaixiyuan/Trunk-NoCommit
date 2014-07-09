@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>街景</title>
+        <!--引入SOSO街景地图API，使用时记得替换YourKey！ -->
+        <script src="http://map.soso.com/api/v2/main.js?key={key}"></script>
+        <script>
+            var lat = {lat};
+            var lng = {lng};
+            var latlngs = [];
+            
+            window.onload = function() {
+                
+                center = new soso.maps.LatLng(lat, lng);
+                
+                //创建街景服务类实例
+                var ps = new soso.maps.PanoramaService();
+                
+                //使用getPano方法吸附街景
+                ps.getPano(center, 1000, function(panoInfo) {
+                           //判断定位点是否吸附街景成功
+                           if (panoInfo != null) {
+                           //可以iframe方式显示移动版街景
+                           //注意url中一定要加上开发者key
+
+                           
+                          document.getElementById('panoview').innerHTML = '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no" width="{width}px" height="{height}px" src="http://apis.map.qq.com/uri/v1/streetview?pano=' + panoInfo.svid + '&heading=0&pitch=0&referer=艺龙旅行"></iframe>';
+                           
+//                           //添加街景覆盖物
+//                           var panolabel = new qq.maps.PanoramaLabel({
+//                                                                     altitude:70.0,
+//                                                                     panorama:pano,
+//                                                                     position:(new qq.maps.LatLng(lat,lng)),
+//                                                                     content:'国家大剧院'
+//                                                                     });
+                           
+                           }});
+            }
+        
+        
+                                    
+                                    
+        
+        
+        </script>
+    </head>
+    <body style="padding:0px;margin:0px;background-color:#f8f8f8;">
+        <!-- 街景显示在以下 div 中 -->
+        <div style="padding:0px;margin:0px;background-color:#f8f8f8;" id="panoview"></div>
+    </body>
+</html>

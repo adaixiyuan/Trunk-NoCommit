@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>126.com</string>
+	<string>163.com</string>
+	<string>hotmail.com</string>
+	<string>gmail.com</string>
+	<string>qq.com</string>
+	<string>sina.com</string>
+	<string>sohu.com</string>
+	<string>icloud.com</string>
+	<string>me.com</string>
+	<string>msn.com</string>
+	<string>tom.com</string>
+	<string>live.com</string>
+	<string>outlook.com</string>
+	<string>google.com</string>
+	<string>live.cn</string>
+	<string>21cn.com</string>
+	<string>chinaren.com</string>
+	<string>corp.elong.com</string>
+</array>
+</plist>

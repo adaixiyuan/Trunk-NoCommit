@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Code/!svn/ver/88085/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/Moudle
+END
+ElongAlbumAsset.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Code/!svn/ver/51312/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/Moudle/ElongAlbumAsset.m
+END
+JHotelComments.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/Moudle/JHotelComments.h
+END
+JHotelComments.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/Moudle/JHotelComments.m
+END
+JHotelKeywordFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Code/!svn/ver/50056/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/Moudle/JHotelKeywordFilter.h
+END
+GrouponFavoriteRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/Moudle/GrouponFavoriteRequest.h
+END
+JHotelKeywordFilter.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Code/!svn/ver/50056/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/Moudle/JHotelKeywordFilter.m
+END
+GrouponFavoriteRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Code/!svn/ver/36890/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/Moudle/GrouponFavoriteRequest.m
+END
+JHotelDetail.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/Moudle/JHotelDetail.h
+END
+HotelVouchTimeRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/Moudle/HotelVouchTimeRequest.h
+END
+JHotelSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Code/!svn/ver/66538/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/Moudle/JHotelSearch.h
+END
+JHotelDetail.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Code/!svn/ver/67180/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/Moudle/JHotelDetail.m
+END
+HotelVouchTimeRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/Moudle/HotelVouchTimeRequest.m
+END
+JHotelSearch.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Code/!svn/ver/79120/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/Moudle/JHotelSearch.m
+END
+TodayOffHotelRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/Moudle/TodayOffHotelRequest.h
+END
+HotelFavoriteRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Code/!svn/ver/36385/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/Moudle/HotelFavoriteRequest.h
+END
+HotelKeywordListRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/Moudle/HotelKeywordListRequest.h
+END
+TodayOffHotelRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/Moudle/TodayOffHotelRequest.m
+END
+HotelFavoriteRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Code/!svn/ver/41076/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/Moudle/HotelFavoriteRequest.m
+END
+HotelKeywordListRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Code/!svn/ver/71949/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/Moudle/HotelKeywordListRequest.m
+END
+HotelConditionRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Code/!svn/ver/64002/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/Moudle/HotelConditionRequest.h
+END
+JCheckRoomCount.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/Moudle/JCheckRoomCount.h
+END
+DefineHotelReq.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Code/!svn/ver/47972/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/Moudle/DefineHotelReq.h
+END
+HotelConditionRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Code/!svn/ver/67200/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/Moudle/HotelConditionRequest.m
+END
+JCheckRoomCount.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/Moudle/JCheckRoomCount.m
+END
+JAddFavorite.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/Moudle/JAddFavorite.h
+END
+JHotelOrderDetail.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/Moudle/JHotelOrderDetail.h
+END
+JAddFavorite.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/Moudle/JAddFavorite.m
+END
+HotelPromotionInfoRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Code/!svn/ver/67180/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/Moudle/HotelPromotionInfoRequest.h
+END
+JHotelOrderDetail.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/Moudle/JHotelOrderDetail.m
+END
+JAddGrouponFavorite.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/Moudle/JAddGrouponFavorite.h
+END
+HotelPromotionInfoRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Code/!svn/ver/70554/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/Moudle/HotelPromotionInfoRequest.m
+END
+HotelPostManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Code/!svn/ver/44190/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/Moudle/HotelPostManager.h
+END
+HotelRoomBedsRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Code/!svn/ver/36890/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/Moudle/HotelRoomBedsRequest.h
+END
+FullHouseRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Code/!svn/ver/88085/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/Moudle/FullHouseRequest.h
+END
+DefineHotelResp.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Code/!svn/ver/67469/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/Moudle/DefineHotelResp.h
+END
+JAddGrouponFavorite.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/Moudle/JAddGrouponFavorite.m
+END
+HotelPostManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Code/!svn/ver/44190/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/Moudle/HotelPostManager.m
+END
+JHotelOrder.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/Moudle/JHotelOrder.h
+END
+HotelRoomBedsRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Code/!svn/ver/36890/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/Moudle/HotelRoomBedsRequest.m
+END
+FullHouseRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Code/!svn/ver/88085/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/Moudle/FullHouseRequest.m
+END
+ElongAlbumAsset.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/Code/!svn/ver/51312/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/Moudle/ElongAlbumAsset.h
+END
+JHotelOrder.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Code/!svn/ver/80404/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/Moudle/JHotelOrder.m
+END

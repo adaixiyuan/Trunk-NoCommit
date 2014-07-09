@@ -1,0 +1,128 @@
+/* 
+   Localizable.strings
+   ElongClient
+
+   Created by bin xing on 11-1-30.
+   Copyright 2011 DP. All rights reserved.
+ */
+
+"s_AppName"="艺龙旅行";
+"s_TelPhoneNum"="400-666-1166";
+"s_FlightBooking"="机票预订";
+"s_HotelBooking"="机票预订";
+"s_LoginAndRegister"="登  录";
+"s_MyElong"="我的艺龙";
+"s_OrderManager"="订单管理";
+"s_Setting"="设置";
+"s_FAQ"="常见问题";
+"s_Suggest"="意见反馈";
+"s_ok"="确认";
+"s_cancel"="取消";
+/* Setting */
+"s_FlightListCount"="航班列表默认数量";
+"s_HotelListCount"="酒店列表默认数量";
+/* Login */
+"s_loginandregister"="登  录";
+"s_login"="登录";
+"s_register"="注册";
+"s_getpassword"="忘记密码";
+"s_logined"="已登录";
+/* Hotel */
+"s_hotellist"="酒店列表";
+"s_hotelaround"="周边酒店";
+"s_normalhotel"="普通查询";
+"s_aroundhotel"="周边酒店";
+"s_myhotel"="收藏酒店";
+"s_incity"="选择目的地";
+"s_totalhotelcount"="共%i家";
+"s_areChoose" = "区域/商圈";
+"s_mapmode"="地图模式";
+"s_listmode"="列表模式";
+"s_elongsuggest"="艺龙推荐";
+"s_clientsuggest"="客户推荐";
+"s_price"="价　格";
+"s_starlevel"="星　级";
+"s_morehotel"="更多酒店";
+"s_morehotelorder"="更多酒店订单";
+"s_hotellisttip"="%@ 入住: %@ 离店: %@";
+"s_hotelpicture_title"="酒店图片";
+"s_hotel_confirmorder"="确认订单";
+"s_hotel_submitorder"="提交订单";
+"s_hotel_ordersuccess"="订单成功";
+"s_hotel_ordervouch"="酒店担保";
+"s_hotel_fillorder"="填写订单";
+"s_add"="新增";
+"s_morereview"="更多评论";
+"s_addfavorite_success"="收藏酒店成功";
+"s_roomtype"="房 型";
+"s_intro"="简 介";
+"s_review"="评 论";
+"s_pic"="图 片";
+"s_map"="地 图";
+"s_detail"="酒店详细";
+"s_tonightHotel" = "今日特价";
+"s_map_price"="%@  %.f元起";
+"s_map_address"="地址:%@";
+"s_select_pricerange"="选择价格范围";
+"s_pricerange"="价格范围　%.f-%.f";
+"s_pricerange1"="价格范围  %@";
+"s_today"="今天";
+"s_nolimit"="价格不限";
+/*confir_hotelorder*/
+"s_ho_totalprice"="房价合计";
+"s_ho_paytype"="付款方式";
+"s_ho_selfpay"="前台自付";
+"s_ho_name"="酒店名称";
+"s_ho_add"="酒店地址";
+"s_ho_indate"="入住日期";
+"s_ho_outdate"="离店日期";
+"s_ho_intime"="到店时间";
+"s_ho_roomtype"="入住房型";
+"s_ho_roomer"="入  住  人";
+"s_ho_contact"="联系人";
+"s_ho_mobilenum"="手  机  号";
+"s_hotelordersuccess_tip1"="订单成功!";
+"s_hotelordersuccess_tip2"="您的预订已经成功提交，请记录您的订单号，以便查询。";
+"s_hotelordersuccess_tip3"="如您需要变更或取消订单，请提前与艺龙联系，避免影响您的行程或积分。";
+"s_hotelordersuccess_tip4"="消费券冲抵￥%i该金额将在您成功入住并结账后的3个工作日内，预计返现到我的艺龙现金账户中。";
+"s_tel_title"="服务热线";
+"s_tel_content"="400-666-1166";
+"s_email_title"="服务邮箱";
+"s_email_content"="cs@corp.elong.com";
+"s_hotelorderid_title"="订  单  号";
+"s_hoteltotalcash_title"="消费金额";
+"s_hotelnote_title"="备注";
+"s_hotelnote_content"="您使用了￥%d消费券，该金额将在您成功入住并结账后的3个工作日内，预计返现到我的艺龙账户中。";
+/*hotel rule*/
+"s_hotelcheckoutdateerro"="离店日期应大于入住日期";
+"s_hotelbookingdateerro"="预订20天后的酒店，请拨打预订电话";
+"s_myhotelisempty"="请选择我的酒店";
+"s_gpserror"="定位失败，请确认是否已开启定位服务";
+"s_nofavoritehote"="您还未收藏酒店";
+/*coupon*/
+"s_coupon_cash"="¥%i";
+"s_coupon_tip1"="消费券总额0元。您已激活的消费券已经用完。";
+"s_coupon_tip2"="当前使用%i元，剩余%i元。";
+"s_coupon_tip3"="您的账户目前有%i元消费券，本次预订最多可以使用%i元消费券。";
+"s_select_coupon"="选择消费券";
+"s_coupon_string"="¥%i";
+/*roomer*/
+"s_addroomer"="新增入住人";
+"s_selectroomer"="选择入住人";
+/* input rule*/
+"s_phonenum_isnull"="手机号不能为空";
+"s_phonenum_isnull_tip"="请输入您的手机号";
+"s_pwd_isnull"="密码不能为空";
+"s_pwd_isnull_tip"="请输入密码";
+"s_pwdformat_iserror"="密码格式输入不正确";
+"s_pwdformat_iserror_tip"="密码只能由数字和字母组成,且长度为4－30位";
+"s_confirmpwd_isnull"="确认密码不能为空";
+"s_confirmpwd_isnull_tip"="请输入确认密码";
+"s_confirmpwd_iserror"="两次输入的密码不相同";
+"s_confirmpwd_iserror_tip"="请重新输入密码";
+"s_hotelroomer_iserror"="入住人数量（%d）必须与房间数（%d）一致，请重新输入";
+"s_fieldname_iserror"="中文姓名请勿使用空格，英文姓名请用'/'替代空格";
+"s_contactname_iserror"="请输入正确的联系人姓名!";
+"s_phonenum_iserror"="请正确输入手机号，手机号为1开头的11位数字";
+"s_email_iserror" = "电子邮箱格式不正确，请重新输入";
+"s_iserror"="错误";

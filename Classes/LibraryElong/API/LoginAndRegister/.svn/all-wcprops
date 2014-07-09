@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/LoginAndRegister
+END
+JToken.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/LoginAndRegister/JToken.h
+END
+JRegister.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/LoginAndRegister/JRegister.h
+END
+LoginRegisterPostManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/LoginAndRegister/LoginRegisterPostManager.h
+END
+JToken.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/LoginAndRegister/JToken.m
+END
+JLogin.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/LoginAndRegister/JLogin.h
+END
+JRegister.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/LoginAndRegister/JRegister.m
+END
+LoginRegisterPostManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/LoginAndRegister/LoginRegisterPostManager.m
+END
+JLogin.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/LoginAndRegister/JLogin.m
+END

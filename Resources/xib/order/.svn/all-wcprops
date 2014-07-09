@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/Code/!svn/ver/53124/Mobile/IOS_Travel/Trunk/Resources/xib/order
+END
+FlightOrderHistoryDetail.xib
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Resources/xib/order/FlightOrderHistoryDetail.xib
+END
+FlightOrderHistoryDetailRestrictionViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/Code/!svn/ver/53124/Mobile/IOS_Travel/Trunk/Resources/xib/order/FlightOrderHistoryDetailRestrictionViewController.xib
+END
+OrderManagementNoInterHotel.xib
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Resources/xib/order/OrderManagementNoInterHotel.xib
+END
+FlightOrderHistroyDetailPassnerInfoViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Resources/xib/order/FlightOrderHistroyDetailPassnerInfoViewController.xib
+END
+GrouponListCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Resources/xib/order/GrouponListCell.xib
+END
+FlightOrderHistoryDetailFlightInfoViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Resources/xib/order/FlightOrderHistoryDetailFlightInfoViewController.xib
+END
+FlightOrderCellViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Resources/xib/order/FlightOrderCellViewController.xib
+END
+OrderManagement.xib
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Resources/xib/order/OrderManagement.xib
+END
+InterHotelOrderHistoryCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Resources/xib/order/InterHotelOrderHistoryCell.xib
+END

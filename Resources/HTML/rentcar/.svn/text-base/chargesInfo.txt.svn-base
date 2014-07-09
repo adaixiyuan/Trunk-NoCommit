@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>租车代驾</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1.0, maximum-scale=1.0,minimum-scale=1.0,user-scalable=no" />
+    <script type="text/javascript">
+
+            function clickme() {
+                //window.location.href =navigator.userAgent;
+                window.location.href ='http://lookbuslimit';
+                }
+            function width(){
+                var width = document.body.clientWidth;
+                document.getElementById("table1").style.width = (width - 22) + "px";
+                document.getElementById("table2").style.width = (width - 22) + "px";
+            }
+    </script>
+
+    <style>
+        body {
+            background-color: #F8F8F8;
+            margin: 0;
+            padding: 10px;
+            font-size:14px;
+        }
+
+        h1 {
+            font-size: 14px;
+            padding-top:10px;
+            font-weight: bold;
+        }
+
+        table {
+            border-collapse: collapse;
+            border-spacing: 0;
+            empty-cells: show;
+            width: 100%;
+        }
+
+        .table thead {
+            background-color: #1774CB;
+            font-weight:bold;
+            color:#fff;
+        }
+
+        .table {
+            border-radius: 5px;
+            -webkit-border-radius: 5px;
+            border: solid 1px #C8C7CC;
+            overflow: hidden;
+        }
+
+            .table td {
+                padding: 5px 6px;
+                line-height:18px;
+            }
+
+        .intro thead {
+            background-color: #F8F8F8 !important;
+            font-weight: bold;
+            color: #000;
+        }
+
+        .intro td {
+            border-right: solid 1px #C8C7CC;
+        }
+
+        .intro tr {
+            border-bottom: solid 1px #C8C7CC;
+        }
+
+        .intro td:last-child {
+            border-right: none;
+        }
+
+        .intro tbody tr:last-child {
+            border-bottom: none;
+        }
+    </style>
+
+</head>
+<body onload="width()" onresize="width()">
+    <h1>%@</h1>
+    <div class="table">
+        <table id="table1">
+            <thead>
+                <tr>
+                    <td style="text-align:center;width:50px;font-size: 11px">车型</td>
+                    <td style="text-align:center;width:50px;font-size: 11px">起租价</td>
+                    <td style="text-align:center;width:55px;font-size: 11px">起租套餐</td>
+                    <td style="text-align:center;font-size: 11px">超起租价计费标准</td>
+                </tr>
+            </thead>
+            <tbody>
+            %@
+            </tbody>
+        </table>
+    </div>
+    <h1>超时及超里程计算规则</h1>
+    <span style="font-size: 11px;color:#555555">
+        %@
+    </span>
+    <h1>起租费用涵盖范围说明</h1>
+    <span style="font-size: 11px;color:#555555">
+        %@
+    </span>
+    <h1>其他费用说明</h1>
+    <div class="table intro">
+        <table id="table2">
+            <thead>
+                <tr>
+                    <td style="text-align:center;width:40px;font-size: 11px;color:#555555">费用项</td>
+                    <td style="font-size: 11px;color:#555555">费用说明</td>
+                </tr>
+            </thead>
+            <tbody>
+                %@
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/Code/!svn/ver/89415/Mobile/IOS_Travel/Trunk/Resources/xib/Flight
+END
+AddAddress.xib
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Resources/xib/Flight/AddAddress.xib
+END
+SelectFlightCustomerCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Code/!svn/ver/63879/Mobile/IOS_Travel/Trunk/Resources/xib/Flight/SelectFlightCustomerCell.xib
+END
+SelectSelfGetAddress.xib
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Resources/xib/Flight/SelectSelfGetAddress.xib
+END
+FlightDetail.xib
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Code/!svn/ver/79316/Mobile/IOS_Travel/Trunk/Resources/xib/Flight/FlightDetail.xib
+END
+FlightOrderSuccess.xib
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Code/!svn/ver/35064/Mobile/IOS_Travel/Trunk/Resources/xib/Flight/FlightOrderSuccess.xib
+END
+FlightSearch.xib
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Code/!svn/ver/53218/Mobile/IOS_Travel/Trunk/Resources/xib/Flight/FlightSearch.xib
+END
+FlightOrderConfirmDetailView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Code/!svn/ver/37508/Mobile/IOS_Travel/Trunk/Resources/xib/Flight/FlightOrderConfirmDetailView.xib
+END
+SelectAddress.xib
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Resources/xib/Flight/SelectAddress.xib
+END
+SelectAddressCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Resources/xib/Flight/SelectAddressCell.xib
+END
+FlightOrderConfirm.xib
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Resources/xib/Flight/FlightOrderConfirm.xib
+END
+AddFlightCustomer.xib
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/Code/!svn/ver/70137/Mobile/IOS_Travel/Trunk/Resources/xib/Flight/AddFlightCustomer.xib
+END
+FlightList.xib
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Code/!svn/ver/46028/Mobile/IOS_Travel/Trunk/Resources/xib/Flight/FlightList.xib
+END
+FlightListCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Code/!svn/ver/89415/Mobile/IOS_Travel/Trunk/Resources/xib/Flight/FlightListCell.xib
+END
+PlaneInfo.xib
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Resources/xib/Flight/PlaneInfo.xib
+END

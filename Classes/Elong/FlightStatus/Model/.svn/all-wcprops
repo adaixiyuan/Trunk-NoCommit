@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Code/!svn/ver/33015/Mobile/IOS_Travel/Trunk/Classes/Elong/FlightStatus/Model
+END
+FStatusListInfos.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Classes/Elong/FlightStatus/Model/FStatusListInfos.m
+END
+FStatusPlaneAnnotation.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Classes/Elong/FlightStatus/Model/FStatusPlaneAnnotation.m
+END
+FStatusAirportAnnotation.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Classes/Elong/FlightStatus/Model/FStatusAirportAnnotation.m
+END
+FStatusList.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Classes/Elong/FlightStatus/Model/FStatusList.m
+END
+FStatusDetailInfos.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Classes/Elong/FlightStatus/Model/FStatusDetailInfos.h
+END
+FStatusDetail.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Code/!svn/ver/33015/Mobile/IOS_Travel/Trunk/Classes/Elong/FlightStatus/Model/FStatusDetail.h
+END
+FStatusDetailInfos.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Classes/Elong/FlightStatus/Model/FStatusDetailInfos.m
+END
+FStatusDetail.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/Code/!svn/ver/33015/Mobile/IOS_Travel/Trunk/Classes/Elong/FlightStatus/Model/FStatusDetail.m
+END
+FStatusListInfos.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Classes/Elong/FlightStatus/Model/FStatusListInfos.h
+END
+FStatusPlaneAnnotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Classes/Elong/FlightStatus/Model/FStatusPlaneAnnotation.h
+END
+FStatusAirportAnnotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Classes/Elong/FlightStatus/Model/FStatusAirportAnnotation.h
+END
+FStatusList.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Classes/Elong/FlightStatus/Model/FStatusList.h
+END

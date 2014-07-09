@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Code/!svn/ver/84288/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/AliPaySDK/Utilities/src
+END
+base64.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Code/!svn/ver/84288/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/AliPaySDK/Utilities/src/base64.m
+END
+RSADataVerifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/Code/!svn/ver/84288/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/AliPaySDK/Utilities/src/RSADataVerifier.h
+END
+MD5DataSigner.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/Code/!svn/ver/84288/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/AliPaySDK/Utilities/src/MD5DataSigner.m
+END
+NSDataEx.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Code/!svn/ver/84288/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/AliPaySDK/Utilities/src/NSDataEx.m
+END
+RSADataSigner.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/Code/!svn/ver/84288/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/AliPaySDK/Utilities/src/RSADataSigner.m
+END
+RSADataVerifier.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/Code/!svn/ver/84288/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/AliPaySDK/Utilities/src/RSADataVerifier.m
+END
+openssl_wrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/Code/!svn/ver/84288/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/AliPaySDK/Utilities/src/openssl_wrapper.h
+END
+base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Code/!svn/ver/84288/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/AliPaySDK/Utilities/src/base64.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/Code/!svn/ver/84288/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/AliPaySDK/Utilities/src/config.h
+END
+MD5DataSigner.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/Code/!svn/ver/84288/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/AliPaySDK/Utilities/src/MD5DataSigner.h
+END
+NSDataEx.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Code/!svn/ver/84288/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/AliPaySDK/Utilities/src/NSDataEx.h
+END
+RSADataSigner.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/Code/!svn/ver/84288/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/AliPaySDK/Utilities/src/RSADataSigner.h
+END
+openssl_wrapper.m
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/Code/!svn/ver/84288/Mobile/IOS_Travel/Trunk/Classes/Library/ThirdParty/AliPaySDK/Utilities/src/openssl_wrapper.m
+END

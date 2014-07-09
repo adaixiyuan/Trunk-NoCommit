@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/OrderManagement
+END
+JCancelHotelOrder.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/OrderManagement/JCancelHotelOrder.m
+END
+NHotelOrderReq.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/OrderManagement/NHotelOrderReq.h
+END
+OrderHistoryPostManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/OrderManagement/OrderHistoryPostManager.h
+END
+NHotelOrderReq.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/OrderManagement/NHotelOrderReq.m
+END
+JHotelOrderHistory.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/OrderManagement/JHotelOrderHistory.h
+END
+OrderHistoryPostManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/OrderManagement/OrderHistoryPostManager.m
+END
+InterHotelOrderHistoryRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/OrderManagement/InterHotelOrderHistoryRequest.h
+END
+OrderDetailRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/OrderManagement/OrderDetailRequest.h
+END
+JHotelOrderHistory.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/OrderManagement/JHotelOrderHistory.m
+END
+InterOrderDetailRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/OrderManagement/InterOrderDetailRequest.h
+END
+InterHotelOrderHistoryRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/OrderManagement/InterHotelOrderHistoryRequest.m
+END
+OrderDetailRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/OrderManagement/OrderDetailRequest.m
+END
+InterOrderDetailRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/OrderManagement/InterOrderDetailRequest.m
+END
+JGetFlightOrderList.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/OrderManagement/JGetFlightOrderList.h
+END
+InterOrderConfirmationLetterRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/OrderManagement/InterOrderConfirmationLetterRequest.h
+END
+JGetFlightOrder.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/OrderManagement/JGetFlightOrder.h
+END
+JGetFlightOrderList.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/OrderManagement/JGetFlightOrderList.m
+END
+InterOrderConfirmationLetterRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/OrderManagement/InterOrderConfirmationLetterRequest.m
+END
+JCancelHotelOrder.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/OrderManagement/JCancelHotelOrder.h
+END
+JGetFlightOrder.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/Code/!svn/ver/84329/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/API/OrderManagement/JGetFlightOrder.m
+END

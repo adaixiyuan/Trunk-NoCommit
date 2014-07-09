@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/Code/!svn/ver/88599/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/Debug/DataCache
+END
+ElongUserDefaults.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Code/!svn/ver/88599/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/Debug/DataCache/ElongUserDefaults.h
+END
+ElongSingleton.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Code/!svn/ver/88599/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/Debug/DataCache/ElongSingleton.m
+END
+ElongUserDefaults.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/Code/!svn/ver/88599/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/Debug/DataCache/ElongUserDefaults.m
+END
+ElongHttpRequestCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Code/!svn/ver/88599/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/Debug/DataCache/ElongHttpRequestCache.h
+END
+ElongHttpRequestCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Code/!svn/ver/88599/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/Debug/DataCache/ElongHttpRequestCache.m
+END
+ElongCacheProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Code/!svn/ver/88599/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/Debug/DataCache/ElongCacheProtocol.h
+END
+ElongKeychain.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Code/!svn/ver/88599/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/Debug/DataCache/ElongKeychain.h
+END
+ElongMemoryCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Code/!svn/ver/88599/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/Debug/DataCache/ElongMemoryCache.h
+END
+ElongCacheDebugProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/Code/!svn/ver/88599/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/Debug/DataCache/ElongCacheDebugProtocol.h
+END
+ElongDataCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Code/!svn/ver/88599/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/Debug/DataCache/ElongDataCache.h
+END
+ElongKeychain.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Code/!svn/ver/88599/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/Debug/DataCache/ElongKeychain.m
+END
+ElongMemoryCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Code/!svn/ver/88599/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/Debug/DataCache/ElongMemoryCache.m
+END
+ElongSingleton.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Code/!svn/ver/88599/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/Debug/DataCache/ElongSingleton.h
+END
+ElongDataCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/Code/!svn/ver/88599/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/Debug/DataCache/ElongDataCache.m
+END
+ElongCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/Code/!svn/ver/88599/Mobile/IOS_Travel/Trunk/Classes/LibraryElong/Debug/DataCache/ElongCache.h
+END

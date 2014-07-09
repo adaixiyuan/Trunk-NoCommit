@@ -1,0 +1,27 @@
+/* 
+  Catalog.strings
+  ElongClient
+  Elong
+
+  Created by 赵 海波 on 14-6-24.
+  Copyright (c) 2014年 elong. All rights reserved.
+*/
+
+/*
+ *  Home：主页
+ *  Hotel：国内酒店
+ *  InterHotel：国际酒店
+ *  Groupon：团购
+ *  Flight：机票
+ *  Train：火车票
+ *  Order：订单
+ *  MyPacking：旅行清单
+ *  ExchangeRate：汇率
+ *  LoginAndRegister：登陆注册忘记密码
+ *  MyElong：个人中心
+ *  ScenicTickets：门票
+ *  XGNewSystem：c2c平台
+ *  Taxi：打车
+ *  PhoneService：客服
+ *  FlightStatus：航班动态
+*/

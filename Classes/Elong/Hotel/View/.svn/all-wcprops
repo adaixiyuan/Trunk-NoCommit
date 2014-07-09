@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/Code/!svn/ver/92085/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/View
+END
+ElongAlbumAssetCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Code/!svn/ver/56276/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/View/ElongAlbumAssetCell.m
+END
+HotelInfoWeb.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Code/!svn/ver/88399/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/View/HotelInfoWeb.m
+END
+ReviewCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Code/!svn/ver/54878/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/View/ReviewCell.xib
+END
+HotelSearch.xib
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/Code/!svn/ver/92085/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/View/HotelSearch.xib
+END
+HotelDetailController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/View/HotelDetailController.xib
+END
+SelectRoomerCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/View/SelectRoomerCell.xib
+END
+Coupon.xib
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/View/Coupon.xib
+END
+SevenDaysRegisterViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/View/SevenDaysRegisterViewController.xib
+END
+TrainQueryRootViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/View/TrainQueryRootViewController.xib
+END
+HotelPriceFilterController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Code/!svn/ver/47492/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/View/HotelPriceFilterController.xib
+END
+AddRoomer.xib
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/View/AddRoomer.xib
+END
+GuaranteeIntroductionView.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/View/GuaranteeIntroductionView.h
+END
+RoomTypeCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Code/!svn/ver/34061/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/View/RoomTypeCell.xib
+END
+FillHotelOrder.xib
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/View/FillHotelOrder.xib
+END
+FeedBackView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/Code/!svn/ver/88085/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/View/FeedBackView.xib
+END
+HotelStarFilterController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/View/HotelStarFilterController.xib
+END
+GuaranteeIntroductionView.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/View/GuaranteeIntroductionView.m
+END
+FeedBackView.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Code/!svn/ver/88085/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/View/FeedBackView.h
+END
+MyFavoriteCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/View/MyFavoriteCell.xib
+END
+HotelUploadImageCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Code/!svn/ver/85663/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/View/HotelUploadImageCell.h
+END
+FilterController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/Code/!svn/ver/49836/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/View/FilterController.xib
+END
+FeedBackView.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Code/!svn/ver/88542/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/View/FeedBackView.m
+END
+HotelInfoWeb.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/Code/!svn/ver/88399/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/View/HotelInfoWeb.h
+END
+ElongAlbumAssetCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/Code/!svn/ver/51312/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/View/ElongAlbumAssetCell.h
+END
+HotelBrandFilterController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/Code/!svn/ver/31827/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/View/HotelBrandFilterController.xib
+END
+HotelUploadImageCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/Code/!svn/ver/85663/Mobile/IOS_Travel/Trunk/Classes/Elong/Hotel/View/HotelUploadImageCell.m
+END

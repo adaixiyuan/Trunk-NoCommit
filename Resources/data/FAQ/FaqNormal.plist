@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>0</key>
+	<array>
+		<string>网络信号中断影响预订流程吗？</string>
+		<string>
+	不会。只要网络恢复，页面也没有关闭，就能正常往下继续操作。</string>
+	</array>
+	<key>1</key>
+	<array>
+		<string>预订过程中有电话和短信进来会影响下单吗？ </string>
+		<string>
+	和手机系统本身功能有关，一般手机都不会受影响。
+	</string>
+	</array>
+	<key>2</key>
+	<array>
+		<string>可以订火车票、船票、汽车票么？</string>
+		<string>
+	艺龙暂时还不提供船票和汽车票的代订服务。
+</string>
+	</array>
+	<key>3</key>
+	<array>
+		<string>400电话是免费的么？</string>
+		<string>
+	400电话在手机入网城市拨打需支付市话费，如果处于漫游状态，则需支付市话费和漫游费，免长话费。
+	</string>
+	</array>
+	<key>4</key>
+	<array>
+		<string>我在国外，400电话无法拨通，怎么办？</string>
+		<string>
+	建议您可以直接通过艺龙网站查询或者预订，也可以拨打+86-10-64329999，由工作人员为您服务。</string>
+	</array>
+</dict>
+</plist>
